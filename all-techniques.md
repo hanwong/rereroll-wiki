@@ -1,0 +1,668 @@
+# 기술 전체 (한 줄씩)
+
+포지션별로 모든 기술을 한 줄씩 적었어요 — 한국어 이름 (영어 이름) — 종류 · 쓰는 쪽 → 성공하면 가는 포지션 · 다른 이름. 기술 이름이 헷갈리면 여기서 찾아요.
+
+## 스탠딩 · 테이크다운
+
+- [낙법](techniques/breakfall.md) (Breakfall) — 방어 · 서서 → 오픈 가드 · 다른 이름: 뒤낙법, 옆낙법, 우케미, 브레이크폴
+- [더블 레그 테이크다운](techniques/double-leg-takedown.md) (Double Leg Takedown) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 더블렉, 더블 레그, 더블렉 테이크다운, 양다리 잡기, 더블 레그 진입, 더블렉 엔트리, 페네트레이션 스텝, 더블 레그 피니시, 더블렉 마무리
+- [싱글 레그 테이크다운](techniques/single-leg-takedown.md) (Single Leg Takedown) — 테이크다운 · 서서 → 패스 · 다른 이름: 싱글렉, 싱글 레그, 싱글렉 테이크다운, 한다리 잡기, 싱글 레그 진입, 싱글렉 엔트리
+- [밭다리후리기](techniques/o-soto-gari.md) (O Soto Gari) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 오소토가리, 오소토, 밭다리
+- [안다리후리기](techniques/o-uchi-gari.md) (O Uchi Gari) — 테이크다운 · 서서 → 패스 · 다른 이름: 오우치가리, 인사이드 트립, 오우치, 안다리
+- [업어치기](techniques/seoi-nage.md) (Seoi Nage) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 세오이나게, 세오이
+- [스프롤 (테이크다운 방어)](techniques/sprawl.md) (Sprawl) — 방어 · 서서 → 프론트 헤드락 · 길로틴 / 터틀 · 크루시픽스 · 다른 이름: 스프럴, 테이크다운 디펜스, 스프롤링
+- [레벨 체인지 테이크다운](techniques/level-change-takedown.md) (Level Change Takedown) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 레벨 체인지
+- [앵클 픽](techniques/ankle-pick.md) (Ankle Pick) — 테이크다운 · 서서 → 패스 · 다른 이름: 발목 잡기 테이크다운, 앵클픽
+- [하이 크로치](techniques/high-crotch.md) (High Crotch) — 테이크다운 · 서서 → 패스 · 다른 이름: 하이크로치
+- [니 탭](techniques/knee-tap.md) (Knee Tap) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 니탭, 니 픽
+- [파이어맨 캐리](techniques/firemans-carry.md) (Fireman's Carry) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 어깨 메치기(레슬링), 파이어맨즈 캐리, 카타구루마, 어깨로메치기
+- [허벅다리걸기](techniques/uchi-mata.md) (Uchi Mata) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 우치마타
+- [허리후리기](techniques/harai-goshi.md) (Harai Goshi) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 하라이고시
+- [몸떨어뜨리기](techniques/tai-otoshi.md) (Tai Otoshi) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 타이오토시, 빗당겨치기, 체락
+- [한팔업어치기](techniques/ippon-seoi-nage.md) (Ippon Seoi Nage) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 입폰 세오이나게
+- [양손업어치기](techniques/morote-seoi-nage.md) (Morote Seoi Nage) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 모로테 세오이나게
+- [안뒤축후리기](techniques/kouchi-gari.md) (Kouchi Gari) — 테이크다운 · 서서 → 패스 · 다른 이름: 코우치가리, 안발목 후리기, 코우치, 안뒤축
+- [밭뒤축후리기](techniques/kosoto-gari.md) (Kosoto Gari) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 코소토가리, 바깥 발목 후리기, 코소토
+- [밭뒤축걸기](techniques/kosoto-gake.md) (Kosoto Gake) — 테이크다운 · 서서 → 사이드 컨트롤 / 하프가드 · 다른 이름: 코소토가케, 바깥 걸기
+- [나오는발차기](techniques/deashi-harai.md) (Deashi Harai) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 데아시하라이, 앞발 쓸기
+- [발목받치기](techniques/sasae-tsurikomi-ashi.md) (Sasae Tsurikomi Ashi) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 사사에츠리코미아시, 발목 받쳐 당기기
+- [모두걸기](techniques/tani-otoshi.md) (Tani Otoshi) — 테이크다운 · 서서 → 사이드 컨트롤 / 하프가드 · 다른 이름: 타니오토시, 골짜기 떨어뜨리기
+- [안오금띄기](techniques/sumi-gaeshi.md) (Sumi Gaeshi) — 테이크다운 · 서서 → 마운트 / 사이드 컨트롤 · 다른 이름: 스미가에시, 모서리 뒤집기
+- [배대뒤치기](techniques/tomoe-nage.md) (Tomoe Nage) — 테이크다운 · 서서 → 마운트 · 다른 이름: 토모에나게, 토모에
+- [칼라 드래그](techniques/collar-drag.md) (Collar Drag) — 백 테이크 · 서서 → 클린치 · 가드 풀링 / 백 컨트롤 · 다른 이름: 깃 끌기
+- [싱글 레그 → 백 테이크](techniques/single-leg-to-back-take.md) (Single Leg to Back Take) — 백 테이크 · 서서 → 백 컨트롤 / 터틀 · 크루시픽스 · 다른 이름: 싱글렉 백
+- [바디락 테이크다운](techniques/body-lock-takedown.md) (Body Lock Takedown) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 보디락, 바디락, 바디록
+- [기본 스탠스 · 스텝](techniques/standing-stance.md) (Basic Stance & Footwork) — 자세 · 컨트롤 · 서서 → 스탠딩 · 테이크다운 · 다른 이름: 스탠스, 기본 자세, 풋워크, 스텝
+- [큰허리](techniques/o-goshi.md) (O Goshi (Hip Throw)) — 테이크다운 · 서서 → 사이드 컨트롤 · 다른 이름: 오고시, 힙 토스, 허리 메치기, 큰허리치기
+- [이마나리 롤](techniques/imanari-roll.md) (Imanari Roll) — 전환 · 서서 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 이마나리 롤, 임마나리, 이마나리, imanari roll, 임마나리 롤
+
+## 클린치 · 가드 풀링
+
+- [그립 파이팅 (기본 그립)](techniques/grip-fighting.md) (Grip Fighting (Collar & Sleeve)) — 자세 · 컨트롤 · 서서 → 클린치 · 가드 풀링 · 다른 이름: 그립 싸움, 깃 소매 잡기, 그립파이팅, 칼라 슬리브 그립
+- [가드 풀링](techniques/pulling-guard.md) (Pulling Guard) — 가드 풀링 · 서서 → 클로즈드 가드 · 다른 이름: 풀 가드, 가드 당기기, 가드 풀, 풀링 가드, 클린치에서 가드 풀링, 클린치 가드 풀
+- [암 드래그 (스탠딩)](techniques/arm-drag-standing.md) (Arm Drag to Back (Standing)) — 백 테이크 · 서서 → 클린치 · 가드 풀링 / 백 컨트롤 · 다른 이름: 암드랙, 팔 끌기, 암 드래그, 암드래그
+- [길로틴 초크 (스탠딩)](techniques/standing-guillotine.md) (Guillotine Choke (Standing)) — 서브미션 · 서서 · 다른 이름: 길로틴, 스탠딩 길로틴, 기요틴, 길로틴 초크, 길로틴 (클린치), 클린치 길로틴
+- [오픈 가드 풀링](techniques/standing-guard-pull.md) (Standing Guard Pull (to Open Guard)) — 가드 풀링 · 서서 → 데라히바 · 리버스 데라히바 / 스파이더 · 라쏘 · 소매 가드 / 오픈 가드 · 다른 이름: 오픈 가드로 앉기
+- [버터플라이 가드 풀링](techniques/butterfly-guard-pull.md) (Butterfly Guard Pull) — 가드 풀링 · 서서 → 버터플라이 가드 · 다른 이름: 버터플라이로 앉기
+- [롤링 가드 풀링](techniques/rolling-guard-pull.md) (Rolling Guard Pull) — 가드 풀링 · 서서 → 클로즈드 가드 · 다른 이름: 구르며 가드 당기기
+- [점핑 가드](techniques/jumping-guard.md) (Jumping Guard) — 가드 풀링 · 서서 → 클로즈드 가드 · 다른 이름: 가드 점프
+- [앉아서 가드 잡기 (시팅 가드)](techniques/sitting-guard-pull.md) (Sitting Guard Pull) — 가드 풀링 · 서서 → 오픈 가드 · 다른 이름: 시팅 가드, 앉은 가드
+- [스냅 다운](techniques/snap-down-from-standing.md) (Snap Down to Front Headlock) — 전환 · 서서 → 프론트 헤드락 · 길로틴 · 다른 이름: 스냅다운, 머리 누르기
+- [러시안 타이 → 백 테이크](techniques/russian-tie-to-back-take.md) (Russian Tie to Back Take) — 백 테이크 · 서서 → 클린치 · 가드 풀링 / 백 컨트롤 · 다른 이름: 투 온 원, 러시안 타이, 투 온 원 → 백 테이크, 투온원
+- [가드 풀링 당했을 때 패스 시작](techniques/guard-pull-defense.md) (Guard Pass from Standing Guard) — 패스 · 위 → 패스 · 다른 이름: 가드 풀링 대처
+- [언더훅 퍼멀링](techniques/underhook-pummeling.md) (Underhook Pummeling) — 자세 · 컨트롤 · 서서 → 클린치 · 가드 풀링 · 다른 이름: 퍼멀, 언더훅 싸움, 퍼멀링
+- [클린치 끊기](techniques/break-clinch.md) (Break Clinch) — 방어 · 서서 → 스탠딩 · 테이크다운 · 다른 이름: 클린치 브레이크
+- [덕 언더](techniques/duck-under.md) (Duck Under) — 백 테이크 · 서서 → 백 컨트롤 · 다른 이름: 덕언더
+- [바디락 빠져나오기](techniques/pummeling-escape-from-body-lock.md) (Escape Body Lock) — 탈출 · 서서 → 클린치 · 가드 풀링 · 다른 이름: 바디락 이스케이프
+- [스탠딩 백에서 돌아서기](techniques/grip-break-and-face.md) (Grip Break and Face (Standing Back)) — 탈출 · 서서 → 클린치 · 가드 풀링 · 다른 이름: 백 그립 끊기
+- [맷 리턴 (뒤에서 끌어내리기)](techniques/mat-return.md) (Mat Return from Standing Back) — 테이크다운 · 서서 → 백 컨트롤 · 다른 이름: 맷리턴
+- [뒤에서 잡혔을 때 안전하게 내려가기](techniques/controlled-descent.md) (Controlled Descent to Turtle) — 방어 · 서서 → 터틀 · 크루시픽스 / 오픈 가드 · 다른 이름: 터틀로 내려가기
+- [스탠딩 스위치](techniques/standing-switch.md) (Standing Switch from Rear Clinch) — 탈출 · 서서 → 클린치 · 가드 풀링 · 다른 이름: 스위치, Standing Switch Defense
+- [뒤에서 잡혔을 때 되치기](techniques/counter-throw-from-rear-clinch.md) (Counter Throw from Rear Clinch) — 테이크다운 · 서서 → 사이드 컨트롤 / 마운트 · 다른 이름: 리어 클린치 카운터
+- [리어 네이키드 초크 (스탠딩)](techniques/rnc-from-standing-back.md) (Rear Naked Choke from Standing Back Control) — 서브미션 · 서서 · 다른 이름: 스탠딩 RNC, RNC, 리어 네이키드
+- [기무라 (스탠딩)](techniques/kimura-from-standing.md) (Kimura from Standing) — 서브미션 · 서서 · 다른 이름: 스탠딩 기무라, 키무라
+- [칼라 타이](techniques/collar-tie.md) (Collar Tie) — 자세 · 컨트롤 · 서서 → 클린치 · 가드 풀링 · 다른 이름: 칼라타이, 목 잡기, 넥 타이, 헤드 컨트롤
+- [스탠딩 백 → 앉으며 백 테이크](techniques/takedown-to-grounded-back-control.md) (Standing Back to Grounded Back Control) — 테이크다운 · 서서 → 백 컨트롤 · 다른 이름: 앉으며 훅 넣기, 시트벨트 앉히기, Sit-Down Back Take
+- [신 투 신 가드 풀링](techniques/shin-to-shin-pull.md) (Shin-to-Shin Guard Pull) — 가드 풀링 · 서서 → 오픈 가드 · 다른 이름: 신투신 풀링, 시팅 신 투 신, Pull to Shin-to-Shin
+
+## 클로즈드 가드
+
+- [클로즈드 가드 (자세 · 포스처 깨기)](techniques/closed-guard-basics.md) (Closed Guard (Basics & Breaking Posture)) — 자세 · 컨트롤 · 아래 → 클로즈드 가드 · 다른 이름: 풀 가드, 클로즈 가드, 가드 유지
+- [시저 스윕](techniques/scissor-sweep.md) (Scissor Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 가위 스윕, 시저스 스윕
+- [가드 열기 (무릎 쐐기)](techniques/closed-guard-break-knee.md) (Closed Guard Break (Knee Wedge)) — 패스 · 위 → 패스 · 다른 이름: 가드 브레이크, 가드 오픈, 니 웨지, 무릎 넣어 열기
+- [힙 범프 스윕](techniques/hip-bump-sweep.md) (Hip Bump Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 시트업 스윕, 힙범프, 싯업 스윕
+- [스탠딩 가드 브레이크](techniques/standing-guard-break.md) (Standing Closed Guard Break) — 패스 · 위 → 패스 · 다른 이름: 서서 가드 열기, 스탠딩 가드 오픈, 서서 열기, 클로즈드 가드 안에서 일어서기, 가드 안 스탠드업
+- [플라워 스윕 (펜듈럼)](techniques/flower-sweep.md) (Flower / Pendulum Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 펜듈럼 스윕, 플라워, 펜듈럼
+- [크로스 칼라 초크 (가드)](techniques/cross-collar-choke-guard.md) (Cross Collar Choke from Closed Guard) — 서브미션 · 아래 · 다른 이름: 크로스 초크, 십자 조르기, 칼라 초크, 크로스 칼라
+- [클로즈드 가드 암바](techniques/closed-guard-armbar.md) (Armbar from Closed Guard) — 서브미션 · 아래 · 다른 이름: 암바, 주짓수 암바, 가드 암바, 주지가타메
+- [트라이앵글 초크](techniques/triangle-choke.md) (Triangle Choke) — 서브미션 · 아래 · 다른 이름: 트라이앵글, 삼각 조르기, 산카쿠, 클로즈드 가드 → 트라이앵글 세팅, 트라이앵글 셋업
+- [기무라 (가드)](techniques/kimura-guard.md) (Kimura from Closed Guard) — 서브미션 · 아래 · 다른 이름: 키무라, 기무라 락, 더블 리스트락, Kimura from Diamond Guard
+- [오모플라타](techniques/omoplata.md) (Omoplata) — 서브미션 · 아래 · 다른 이름: 오모플라따
+- [암 드래그 → 백 테이크 (가드)](techniques/arm-drag-guard.md) (Arm Drag to Back from Closed Guard) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 암드랙, 팔 끌어 백 잡기, 암드래그
+- [길로틴 초크 (가드)](techniques/guillotine-guard.md) (Guillotine from Closed Guard) — 서브미션 · 아래 · 다른 이름: 가드 길로틴
+- [클로즈드 가드 안 자세 되찾기](techniques/posture-recovery.md) (Posture Recovery inside Closed Guard) — 방어 · 위 → 클로즈드 가드 · 다른 이름: 포스처 리커버리, 클로즈드 가드 안에서 자세 잡기, 포스처, 가드 안 자세, 자세 세우기, 포스처 잡기
+- [스택 당했을 때 방어 (가드)](techniques/stack-defense.md) (Stack Defense in Closed Guard) — 방어 · 아래 → 클로즈드 가드 / 오픈 가드 · 다른 이름: 스택 디펜스
+- [오모플라타 스윕](techniques/omoplata-sweep.md) (Omoplata Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 오모플라타로 넘기기
+- [오버훅 스윕](techniques/overhook-sweep.md) (Overhook Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 위저 스윕, 오버훅 가드 스윕, 오버훅 가드에서 넘기기
+- [기무라 스윕](techniques/kimura-sweep.md) (Kimura Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 기무라로 넘기기
+- [100% 스윕 (상대가 섰을 때 다리 안아 넘기기)](techniques/100-percent-sweep.md) (100% Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 백퍼센트 스윕
+- [암 트랩 스윕](techniques/arm-trap-sweep.md) (Arm Trap Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 팔 가두고 넘기기
+- [클램프 스윕](techniques/clamp-sweep.md) (Clamp Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 가슴 붙여 넘기기
+- [클로즈드 가드 → 오버훅 가드](techniques/closed-guard-to-overhook-guard.md) (Closed Guard to Overhook Guard) — 전환 · 아래 → 클로즈드 가드 · 다른 이름: 오버훅 가드 진입, Transition to Diamond Guard
+- [트라이앵글로 전환](techniques/switch-to-triangle.md) (Switch to Triangle) — 서브미션 · 아래 · 다른 이름: 트라이앵글 스위치
+- [리스트락 (가드)](techniques/wrist-lock-closed-guard.md) (Wrist Lock from Closed Guard) — 서브미션 · 아래 · 다른 이름: 손목 꺾기
+- [루프 초크 (가드)](techniques/loop-choke-closed-guard.md) (Loop Choke from Closed Guard) — 서브미션 · 아래 · 다른 이름: 루프초크
+- [머슬 스윕](techniques/muscle-sweep.md) (Muscle Sweep) — 스윕 · 아래 → 마운트 / 패스 · 다른 이름: 힘 스윕
+- [에제키엘 초크 (가드 안에서)](techniques/ezekiel-choke-closed-guard.md) (Ezekiel Choke from inside Closed Guard) — 서브미션 · 위 · 다른 이름: 가드 안 에제키엘, 에스키엘, 이제키엘
+- [캔 오프너 (가드 열기)](techniques/can-opener.md) (Can Opener) — 전환 · 위 → 패스 · 다른 이름: 캔오프너
+- [오버훅 컨트롤 스윕](techniques/overhook-control-sweep.md) (Overhook Control Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 오버훅에서 넘기기
+- [오버훅 → 하프가드](techniques/overhook-to-half-guard.md) (Overhook to Half Guard) — 전환 · 아래 → 하프가드 · 다른 이름: 오버훅 하프 전환
+- [기무라 (오버훅 컨트롤 위에서)](techniques/kimura-from-overhook-control.md) (Kimura from Overhook Control (Top)) — 서브미션 · 위 · 다른 이름: 오버훅 기무라
+- [다스 (오버훅 컨트롤 위에서)](techniques/darce-from-overhook-control.md) (Darce from Overhook Control) — 서브미션 · 위 · 다른 이름: 오버훅 다스
+- [오버훅 풀고 패스](techniques/overhook-pass-to-side-control.md) (Overhook Pass to Side Control) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 오버훅 패스
+- [위저 (오버훅으로 막기)](techniques/whizzer.md) (Whizzer) — 방어 · 위 → 백 컨트롤 / 사이드 컨트롤 · 다른 이름: 위저, 오버훅 카운터
+- [오버훅 가드 풀기](techniques/break-overhook-guard.md) (Break Overhook Guard) — 방어 · 위 → 클로즈드 가드 · 다른 이름: 오버훅 가드 브레이크, Guard Pass from Diamond Guard, Overhook Strip from Diamond Guard
+- [오모플라타 (오버훅 가드)](techniques/omoplata-from-overhook-guard.md) (Omoplata from Overhook Guard) — 서브미션 · 아래 · 다른 이름: 오버훅 오모플라타
+- [상대가 섰을 때 클로즈드 가드 유지](techniques/closed-guard-vs-standing.md) (Closed Guard vs Standing Opponent) — 자세 · 컨트롤 · 아래 → 클로즈드 가드 · 다른 이름: 가드 매달리기, 스탠딩 가드 브레이크 방어, 클로즈드 가드 유지
+- [클로즈드 가드에서 각도 만들기](techniques/closed-guard-hip-angle.md) (Creating an Angle from Closed Guard) — 자세 · 컨트롤 · 아래 → 클로즈드 가드 · 다른 이름: 힙 아웃, 엉덩이 빼기, 각도 만들기, 오프 앵글
+- [트라이앵글 (클램프 가드)](techniques/triangle-from-clamp-guard.md) (Triangle from Clamp Guard) — 서브미션 · 아래 · 다른 이름: 오버훅 트라이앵글, 클램프 가드 트라이앵글, Overhook Triangle
+- [암바 (클램프 가드)](techniques/armbar-from-clamp-guard.md) (Armbar from Clamp Guard) — 서브미션 · 아래 · 다른 이름: 오버훅 암바, 클램프 가드 암바, Overhook Armbar
+- [가드 열기 순서](techniques/guard-opening-sequence.md) (Guard Opening Sequence) — 전환 · 위 → 패스 · 다른 이름: 가드 오프닝
+- [스택 패스 (클로즈드 가드)](techniques/stack-pass-from-closed-guard.md) (Stack Pass from Closed Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 가드 스택
+- [니슬라이스 (클로즈드 가드 열고)](techniques/knee-slice-from-closed-guard.md) (Knee Slice from Closed Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 가드 열고 니슬라이스
+- [러버 가드 (미션 컨트롤)](techniques/rubber-guard.md) (Rubber Guard (Mission Control)) — 자세 · 컨트롤 · 아래 → 클로즈드 가드 · 다른 이름: 러버가드, 미션 컨트롤, 하이 가드, rubber guard, mission control
+- [윌리엄스 가드 (클로즈드 가드에서)](techniques/williams-guard.md) (Williams Guard (Shoulder Pin)) — 자세 · 컨트롤 · 아래 → 클로즈드 가드 · 다른 이름: 윌리엄스, 숄더 핀 가드, 숄더 핀, Williams guard, shoulder pin guard, 윌리엄스 가드
+
+## 오픈 가드
+
+- [테크니컬 스탠드업](techniques/technical-stand-up.md) (Technical Stand-Up) — 전환 · 아래 → 스탠딩 · 테이크다운 · 다른 이름: 테크니컬 겟업, 기본 일어서기, 테크니컬 스탠드 업, 겟업
+- [쉬림프 (힙 이스케이프)](techniques/shrimp-hip-escape.md) (Shrimp / Hip Escape) — 탈출 · 아래 → 오픈 가드 · 다른 이름: 새우, 힙 이스케이프, 쉬림프, 엉덩이 빼기
+- [트라이포드 스윕](techniques/tripod-sweep.md) (Tripod Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 삼각대 스윕, 트리포드 스윕, 트라이포드 스윕 (발 골반에서), 발 골반 트라이포드
+- [시클 스윕](techniques/sickle-sweep.md) (Sickle Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 낫 스윕, 시클 스윕 (발 골반에서), 발 골반 시클
+- [그립 끊기 (오픈 가드)](techniques/grip-break.md) (Grip Break in Open Guard) — 방어 · 아래 → 오픈 가드 · 다른 이름: 그립 브레이크, 그립 끊기, 그립 파이팅
+- [발 골반 가드 (피트 온 힙스)](techniques/feet-on-hips-guard.md) (Feet on Hips Guard) — 자세 · 컨트롤 · 아래 → 오픈 가드 · 다른 이름: 피트온힙스, 발 골반, 풋 온 힙
+- [푸시 스윕](techniques/push-sweep-from-feet-on-hips.md) (Push Sweep from Feet on Hips) — 스윕 · 아래 → 패스 · 다른 이름: 밀어 넘기기
+- [벌룬 스윕](techniques/balloon-sweep.md) (Balloon Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 풍선 스윕, 오버헤드 스윕
+- [발 골반 → 데라히바](techniques/feet-on-hips-to-de-la-riva.md) (Feet on Hips to De La Riva) — 전환 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: 데라히바 진입, DLR 진입
+- [칼라 드래그 (오픈 가드)](techniques/collar-drag-from-open-guard.md) (Collar Drag from Open Guard) — 백 테이크 · 아래 → 백 컨트롤 / 프론트 헤드락 · 길로틴 · 다른 이름: 앉아서 깃 끌기, 컬러 드래그, 깃 드래그
+- [스윕 실패 후 복귀](techniques/recovery-from-failed-sweep.md) (Recovery from Failed Sweep) — 전환 · 아래 → 오픈 가드 / 스탠딩 · 테이크다운 · 다른 이름: 리커버리
+- [오픈 가드 → 딥 하프](techniques/open-guard-to-deep-half.md) (Open Guard to Deep Half) — 전환 · 아래 → 딥 하프가드 · 다른 이름: 딥 하프 진입, 딥하프
+- [시저 스윕 (오픈 가드)](techniques/scissor-sweep-from-open-guard.md) (Scissor Sweep from Open Guard) — 스윕 · 아래 → 마운트 · 다른 이름: 오픈 가드 시저
+- [트라이앵글 (오픈 가드)](techniques/triangle-choke-from-open-guard.md) (Triangle Choke from Open Guard) — 서브미션 · 아래 · 다른 이름: 오픈 가드 트라이앵글
+- [벨리 다운 암바 (오픈 가드)](techniques/belly-down-armbar-open-guard.md) (Belly Down Armbar from Open Guard) — 서브미션 · 아래 · 다른 이름: 엎드린 암바
+- [발 잡아 넘기기 (시팅 가드)](techniques/foot-grab-sweep.md) (Foot Grab Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 앵클 그랩 스윕
+- [앵클 픽 스윕](techniques/ankle-pick-sweep.md) (Ankle Pick Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 앉아서 발목 잡기
+- [럼버잭 스윕](techniques/lumberjack-sweep.md) (Lumberjack Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 나무꾼 스윕
+- [신 투 신 가드](techniques/shin-to-shin-guard.md) (Shin-to-Shin Guard) — 자세 · 컨트롤 · 아래 → 오픈 가드 · 다른 이름: 정강이 가드, 신투신
+- [신 투 신 스윕](techniques/shin-to-shin-sweep.md) (Shin-to-Shin Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 정강이 스윕
+- [신 투 신 → 싱글 레그 X](techniques/shin-to-shin-to-single-leg-x.md) (Shin-to-Shin to Single Leg X) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: SLX 진입, 싱글 레그 X 진입, 신투신 SLX
+- [테크니컬 스탠드업 → 싱글 레그](techniques/technical-stand-up-to-single-leg.md) (Technical Stand-Up to Single Leg) — 스윕 · 아래 → 패스 · 다른 이름: 일어나며 싱글렉, 싱글 레그 테이크다운
+- [케이 가드](techniques/k-guard.md) (K-Guard) — 자세 · 컨트롤 · 아래 → 오픈 가드 · 다른 이름: 케이가드, K 가드, K가드, Half Guard to K-Guard
+- [시팅 가드 기본 자세](techniques/seated-guard-basics.md) (Seated Guard Basics) — 자세 · 컨트롤 · 아래 → 오픈 가드 · 다른 이름: 시팅 가드, 앉은 가드, 시티드 가드
+- [가드 리텐션 (다리 되돌리기)](techniques/open-guard-retention.md) (Open Guard Retention) — 방어 · 아래 → 오픈 가드 · 다른 이름: 가드 리텐션, 리텐션, 가드 지키기, 다리 되찾기
+- [케이 가드 패스](techniques/pass-k-guard.md) (Pass K-Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: K가드 패스, K-Guard Pass, Backstep from K-Guard
+- [케이 가드 → 싱글 레그 X](techniques/k-guard-to-single-leg-x.md) (K-Guard to Single Leg X) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: K가드 SLX, K가드에서 싱글엑스, K-Guard to SLX
+- [신 투 신 가드 패스](techniques/pass-shin-to-shin-guard.md) (Pass Shin-to-Shin Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 신투신 패스, 니 스루 (신 투 신 상대), 신투신 니스루
+- [발 골반 가드 패스](techniques/pass-feet-on-hips-guard.md) (Pass Feet on Hips Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 피트온힙스 패스
+- [매트릭스 (케이 가드 → 백)](techniques/matrix-back-take-k-guard.md) (Matrix Back Take from K-Guard) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 매트릭스 백 테이크, 케이 가드 백 테이크, K가드 매트릭스, matrix, 매트릭스
+
+## 버터플라이 가드
+
+- [버터플라이 가드](techniques/butterfly-guard.md) (Butterfly Guard) — 자세 · 컨트롤 · 아래 → 버터플라이 가드 · 다른 이름: 버터플라이, 나비 가드, 버플
+- [버터플라이 스윕](techniques/butterfly-sweep.md) (Butterfly Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 훅 스윕, 버터플라이 기본 스윕, 버플 스윕, 언더훅 스윕 (버터플라이), 버터플라이 언더훅 스윕
+- [엘리베이터 스윕](techniques/elevator-sweep.md) (Elevator Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 엘레베이터 스윕, 엘리베이터
+- [암 드래그 → 백 (버터플라이)](techniques/arm-drag-to-back-butterfly.md) (Arm Drag to Back from Butterfly) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 버터플라이 암드랙, 암 드래그, 암드래그 백 테이크
+- [훅 스윕 (한쪽 훅)](techniques/hook-sweep.md) (Hook Sweep) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 원 훅 스윕
+- [버터플라이 → X 가드](techniques/butterfly-guard-to-x-guard.md) (Butterfly Guard to X-Guard) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: X가드 진입, 엑스가드 진입
+- [버터플라이 스매시 패스](techniques/butterfly-smash.md) (Butterfly Smash Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 버터플라이 스매시, 스매시 (버터플라이 하프), 하프 버터플라이 스매시
+- [길로틴 (버터플라이)](techniques/guillotine-from-butterfly.md) (Guillotine from Butterfly Guard) — 서브미션 · 아래 · 다른 이름: 버터플라이 길로틴, 기요틴
+- [기무라 (버터플라이)](techniques/kimura-from-butterfly.md) (Kimura from Butterfly Guard) — 서브미션 · 아래 · 다른 이름: 버터플라이 기무라
+- [오모플라타 (버터플라이)](techniques/omoplata-from-butterfly.md) (Omoplata from Butterfly Guard) — 서브미션 · 아래 · 다른 이름: 버터플라이 오모플라타
+- [버터플라이 하프가드](techniques/butterfly-half-guard.md) (Butterfly Half Guard) — 자세 · 컨트롤 · 아래 → 버터플라이 가드 · 다른 이름: 하프 버터플라이
+- [버터플라이 하프가드 스윕](techniques/butterfly-half-guard-sweep.md) (Butterfly Half Guard Sweep) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 하프 버터플라이 스윕
+- [버터플라이 하프 → 가드 회복](techniques/reguard-from-butterfly-half.md) (Reguard from Butterfly Half Guard) — 전환 · 아래 → 버터플라이 가드 · 다른 이름: 훅으로 가드 되찾기
+- [버터플라이 하프 → 도그파이트](techniques/half-butterfly-to-dogfight.md) (Half Butterfly to Dogfight) — 전환 · 아래 → 하프가드 · 다른 이름: 도그파이트 진입
+- [롤링 백 테이크 (버터플라이 하프)](techniques/rolling-back-take-from-half-butterfly.md) (Rolling Back Take from Half Butterfly) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 구르며 백 잡기
+- [버터플라이 훅 컨트롤 패스](techniques/pass-butterfly-hook-control.md) (Pass Butterfly Hook Control) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 훅 잡혀도 패스, 니슬라이스 (버터플라이 하프), 하프 버터플라이 니슬라이스, 버터플라이 패스, 버터플라이 가드 패스, 버터플라이 훅 패스, 훅 죽이기 패스
+- [존 웨인 스윕](techniques/john-wayne-sweep.md) (John Wayne Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 존웨인 스윕
+- [길로틴 스윕 (버터플라이)](techniques/butterfly-sweep-with-guillotine.md) (Guillotine Sweep from Butterfly Guard) — 스윕 · 아래 → 마운트 · 다른 이름: 버터플라이 길로틴 스윕, 길로틴 스윕, Butterfly Sweep with Guillotine
+
+## 데라히바 · 리버스 데라히바
+
+- [데라히바 가드](techniques/de-la-riva-guard.md) (De La Riva Guard) — 자세 · 컨트롤 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: DLR, 데라, 데라이바, 델라히바, 데라히바
+- [데라히바 스윕](techniques/de-la-riva-sweep.md) (De La Riva Sweep) — 스윕 · 아래 → 패스 · 다른 이름: DLR 스윕, 데라이바 스윕, 데라히바 기본 스윕
+- [베림볼로](techniques/berimbolo-entry.md) (Berimbolo Entry) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 베림볼로, 베림볼로 진입, 베림볼로 백 테이크
+- [데라히바 → X 가드](techniques/de-la-riva-to-x-guard.md) (De La Riva to X-Guard Transition) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: DLR X가드
+- [볼로 스윕](techniques/bolo-sweep.md) (Bolo Sweep) — 스윕 · 아래 → 패스 / 백 컨트롤 · 다른 이름: 볼로
+- [토레안도 (데라히바 상대)](techniques/toreando-pass-from-de-la-riva.md) (Toreando Pass vs De La Riva) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: DLR 토레안도
+- [백스텝 (데라히바 상대)](techniques/backstep-from-de-la-riva.md) (Backstep from De La Riva) — 패스 · 위 → 패스 · 다른 이름: DLR 백스텝
+- [레그 드래그 (데라히바 상대)](techniques/leg-drag-from-dlr.md) (Leg Drag from DLR) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: DLR 레그 드래그
+- [니슬라이스 (데라히바 상대)](techniques/knee-slice-from-dlr.md) (Knee Slice from DLR) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: DLR 니슬라이스
+- [트라이앵글 (데라히바)](techniques/triangle-setup-from-de-la-riva.md) (Triangle from De La Riva) — 서브미션 · 아래 · 다른 이름: DLR 트라이앵글
+- [오모플라타 (데라히바)](techniques/omoplata-from-de-la-riva.md) (Omoplata from De La Riva) — 서브미션 · 아래 · 다른 이름: DLR 오모플라타
+- [데라히바 → 인버티드](techniques/de-la-riva-to-inverted-guard.md) (De La Riva to Inverted Guard) — 전환 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: 거꾸로 돌기
+- [리버스 데라히바 가드](techniques/reverse-de-la-riva-guard.md) (Reverse De La Riva Guard) — 자세 · 컨트롤 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: RDLR, 리버스 데라, 리버스 데라이바, 리버스 DLR
+- [리버스 데라히바 유지 · 회복](techniques/reverse-de-la-riva-recovery.md) (Reverse De La Riva Recovery) — 방어 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: RDLR 리텐션
+- [키스 오브 더 드래곤](techniques/kiss-of-the-dragon.md) (Kiss of the Dragon from RDLR) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: RDLR 백 테이크, 키스 오브 드래곤, KOD
+- [스위블 테이크다운 (RDLR)](techniques/rdlr-swivel-takedown.md) (Swivel Takedown from RDLR) — 스윕 · 아래 → 패스 · 다른 이름: 리버스 데라 테이크다운
+- [리버스 데라히바 패스](techniques/rdlr-pass.md) (RDLR Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: RDLR 패스
+- [백스텝 (RDLR 상대)](techniques/rdlr-backstep-counter.md) (RDLR Backstep Counter) — 패스 · 위 → 패스 · 다른 이름: RDLR 백스텝
+- [데라히바 백 테이크 (앉혀서 돌기)](techniques/de-la-riva-to-back-take.md) (De La Riva Back Take) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: DLR 백 테이크, 데라히바 백, 앉혀서 백 잡기
+- [리버스 데라히바 스윕](techniques/reverse-de-la-riva-sweep.md) (Reverse De La Riva Sweep) — 스윕 · 아래 → 패스 · 다른 이름: RDLR 스윕, 리버스 데라 스윕, 리버스 데라이바 스윕
+- [리버스 데라히바 → 크랩 라이드](techniques/rdlr-to-crab-ride.md) (RDLR to Crab Ride) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: RDLR 크랩 라이드, 크랩 라이드 진입, RDLR to Crab Ride
+- [토홀드 (데라히바 · 베림볼로에서)](techniques/toe-hold-de-la-riva.md) (Toe Hold from De La Riva / Berimbolo) — 서브미션 · 아래 · 다른 이름: 데라히바 토홀드, 베림볼로 토홀드, DLR 토홀드, berimbolo to toe hold, 토홀드 (데라히바)
+
+## 스파이더 · 라쏘 · 소매 가드
+
+- [칼라 슬리브 가드](techniques/collar-sleeve-guard.md) (Collar Sleeve Guard) — 자세 · 컨트롤 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 깃 소매 가드, 칼라슬리브, 컬러 슬리브, 깃소매
+- [스파이더 가드](techniques/spider-guard.md) (Spider Guard) — 자세 · 컨트롤 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 스파이더, 스파이더가드, 칼라 슬리브 → 스파이더, 칼라슬리브 스파이더, 더블 슬리브 → 스파이더, 스파이더 진입
+- [스파이더 스윕](techniques/spider-sweep.md) (Spider Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 스파이더 가드 스윕, 더블 슬리브 스윕, 양 소매 스윕
+- [라쏘 가드](techniques/lasso-guard.md) (Lasso Guard) — 자세 · 컨트롤 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 라소 가드, 라쏘, 라쏘가드, 랏소
+- [라쏘 스윕](techniques/lasso-sweep.md) (Lasso Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 라쏘 가드 스윕, 라소 스윕, Russian Lasso Sweep
+- [칼라 슬리브 스윕](techniques/collar-sleeve-sweep.md) (Collar Sleeve Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 깃 소매 스윕
+- [칼라 슬리브 → 데라히바](techniques/collar-sleeve-to-de-la-riva.md) (Collar Sleeve to De La Riva) — 전환 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: 칼라슬리브 DLR
+- [불 패스 (칼라 슬리브 상대)](techniques/bull-pass-from-collar-sleeve.md) (Bull Pass vs Collar Sleeve) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 칼라슬리브 토레안도, 토레안도 (더블 슬리브 상대), 소매 토레안도
+- [더블 슬리브 가드](techniques/double-sleeve-guard.md) (Double Sleeve Guard) — 자세 · 컨트롤 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 양 소매 가드, 더블 슬리브, 양소매
+- [암바 (더블 슬리브)](techniques/armbar-setup-from-double-sleeve.md) (Armbar from Double Sleeve) — 서브미션 · 아래 · 다른 이름: 소매 암바
+- [오모플라타 (더블 슬리브)](techniques/omoplata-from-double-sleeve.md) (Omoplata from Double Sleeve) — 서브미션 · 아래 · 다른 이름: 소매 오모플라타
+- [오모플라타 (라쏘)](techniques/omoplata-from-lasso.md) (Omoplata from Lasso) — 서브미션 · 아래 · 다른 이름: 라쏘 오모플라타, Omoplata from Russian Leg Lasso
+- [라쏘 가드 패스](techniques/lasso-guard-pass.md) (Lasso Guard Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라쏘 패스, Pass Russian Leg Lasso, Pass Inverted Lasso Guard
+- [백스텝 패스 (라쏘 상대)](techniques/lasso-guard-backstep-pass.md) (Lasso Guard Backstep Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라쏘 백스텝
+- [스택 패스 (라쏘 상대)](techniques/lasso-guard-stack-pass.md) (Lasso Guard Stack Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라쏘 스택, Stack from Inverted Lasso
+- [기무라 (라쏘 위에서)](techniques/kimura-from-lasso-guard.md) (Kimura vs Lasso Guard (Top)) — 서브미션 · 위 · 다른 이름: 라쏘 기무라
+- [벨리 다운 암바 (라쏘)](techniques/belly-down-armbar-lasso.md) (Belly Down Armbar from Lasso) — 서브미션 · 아래 · 다른 이름: 라쏘 암바
+- [스파이더 가드 패스](techniques/spider-guard-pass.md) (Spider Guard Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 스파이더 패스, 더블 슬리브 가드 패스, 소매 그립 패스, 칼라 슬리브 가드 패스, 칼라슬리브 패스
+- [스파이더에서 가드 회복](techniques/guard-recovery-from-spider.md) (Guard Recovery from Spider Guard) — 전환 · 아래 → 클로즈드 가드 · 다른 이름: 스파이더 리가드, 더블 슬리브에서 가드 회복, 소매 잡고 가드 되찾기
+- [스파이더 → 라쏘](techniques/spider-to-lasso.md) (Spider to Lasso Guard) — 전환 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 스파이더 라쏘 전환, 더블 슬리브 → 라쏘, 라쏘 진입
+- [스택 패스 (스파이더 상대)](techniques/stack-pass-from-spider.md) (Stack Pass from Spider) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 스파이더 스택
+- [오모플라타 (스파이더)](techniques/spider-guard-to-omoplata.md) (Omoplata from Spider Guard) — 서브미션 · 아래 · 다른 이름: 스파이더 오모플라타
+- [트라이앵글 (스파이더)](techniques/triangle-from-spider-guard.md) (Triangle from Spider Guard) — 서브미션 · 아래 · 다른 이름: 스파이더 트라이앵글
+- [벨리 다운 암바 (스파이더)](techniques/belly-down-armbar-spider.md) (Belly Down Armbar from Spider) — 서브미션 · 아래 · 다른 이름: 스파이더 암바
+- [트라이앵글 (칼라 슬리브)](techniques/triangle-from-collar-sleeve.md) (Triangle from Collar Sleeve Guard) — 서브미션 · 아래 · 다른 이름: 칼라 슬리브 트라이앵글, 깃 소매 트라이앵글, 칼라슬리브 삼각
+- [오모플라타 (칼라 슬리브)](techniques/omoplata-from-collar-sleeve.md) (Omoplata from Collar Sleeve Guard) — 서브미션 · 아래 · 다른 이름: 칼라 슬리브 오모플라타, 깃 소매 오모플라타, 칼라슬리브 오모
+- [트라이앵글 (라쏘)](techniques/triangle-from-lasso.md) (Triangle from Lasso Guard) — 서브미션 · 아래 · 다른 이름: 라쏘 트라이앵글, 라소 트라이앵글, 라쏘 삼각
+- [더블 슬리브 → 데라히바](techniques/double-sleeve-to-de-la-riva.md) (Double Sleeve to De La Riva) — 전환 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: 더블 슬리브에서 데라히바, 소매 가드 → 데라히바, Double Sleeve to DLR
+
+## 라펠 가드
+
+- [라펠 가드 (기본)](techniques/lapel-guard-basics.md) (Lapel Guard (Basics)) — 자세 · 컨트롤 · 아래 → 라펠 가드 · 다른 이름: 라펠, 라펠가드, 옷깃 가드, 깃 가드
+- [웜 가드 진입](techniques/worm-guard-entry.md) (Worm Guard Entry) — 전환 · 아래 → 라펠 가드 · 다른 이름: 웜가드, 웜 가드, 벌레 가드
+- [라펠 스윕 → 백](techniques/lapel-sweep-to-back.md) (Lapel Sweep to Back) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 라펠 백 테이크, 웜 가드 백
+- [라펠 엘리베이터 스윕](techniques/lapel-elevator-sweep.md) (Lapel Elevator Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 라펠 엘리베이터
+- [라펠 → 데라히바](techniques/lapel-to-de-la-riva.md) (Lapel to De La Riva) — 전환 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: 라펠 DLR, 라펠 데라히바
+- [라펠 → 라쏘](techniques/lapel-to-lasso.md) (Lapel to Lasso Guard) — 전환 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 라펠 라쏘, 라펠 라소
+- [라펠 → 스파이더](techniques/lapel-to-spider.md) (Lapel to Spider Guard) — 전환 · 아래 → 스파이더 · 라쏘 · 소매 가드 · 다른 이름: 라펠 스파이더
+- [오모플라타 (라펠)](techniques/lapel-omoplata-entry.md) (Lapel Omoplata Entry) — 서브미션 · 아래 · 다른 이름: 라펠 오모플라타
+- [트라이앵글 (라펠)](techniques/lapel-triangle-setup.md) (Lapel Triangle Setup) — 서브미션 · 아래 · 다른 이름: 라펠 트라이앵글
+- [라펠 풀고 토레안도](techniques/lapel-clear-to-toreando.md) (Lapel Clear to Toreando Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라펠 패스
+- [니슬라이스 (라펠 잡힌 채)](techniques/knee-slice-despite-lapel.md) (Knee Slice Despite Lapel) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라펠 니슬라이스
+- [거리 만들어 리셋 (라펠 상대)](techniques/distance-creation-to-reset.md) (Distance Creation to Reset) — 방어 · 위 → 오픈 가드 · 다른 이름: 라펠 리셋
+- [레그 드래그 (라펠 풀며)](techniques/leg-drag-while-clearing-lapel.md) (Leg Drag While Clearing Lapel) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라펠 레그 드래그
+- [스택 패스 (라펠 상대)](techniques/stack-pass-over-lapel.md) (Stack Pass Over Lapel Barrier) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 라펠 스택
+- [웜 가드 스윕](techniques/worm-guard-sweep.md) (Worm Guard Sweep) — 스윕 · 아래 → 사이드 컨트롤 / 마운트 · 다른 이름: 웜가드 스윕, 웜 가드 넘기기
+- [웜 가드 상대 자세 지키기](techniques/defend-worm-guard-posture.md) (Posture Defense vs Worm Guard) — 방어 · 위 → 오픈 가드 · 다른 이름: 라펠 가드 방어, 웜가드 디펜스
+
+## X 가드 · 싱글 레그 X · 앵클락
+
+- [X 가드](techniques/x-guard.md) (X-Guard) — 자세 · 컨트롤 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 엑스 가드, X가드, 엑스가드
+- [X 가드 스윕](techniques/x-guard-sweep.md) (X-Guard Sweep) — 스윕 · 아래 → 패스 · 다른 이름: X가드 넘기기, X가드 스윕
+- [토마호크 스윕](techniques/tomahawk-sweep.md) (Tomahawk Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: X가드 토마호크
+- [X 가드 → 일어나기](techniques/x-guard-technical-stand-up.md) (X-Guard Technical Stand Up) — 스윕 · 아래 → 패스 · 다른 이름: X가드 스탠드업
+- [X 가드 → 싱글 레그 X](techniques/x-guard-to-single-leg-x.md) (X-Guard to Single Leg X) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: SLX 전환
+- [X 가드 빠져나오기 (서서)](techniques/standing-escape-from-x-guard.md) (Standing Escape from X-Guard) — 탈출 · 위 → 패스 · 다른 이름: X가드 이스케이프
+- [무릎 눌러 X 가드 패스](techniques/knee-pin-from-x-guard.md) (Knee Pin from X-Guard) — 패스 · 위 → 하프가드 · 다른 이름: X가드 니핀
+- [스텝 오버 (X 가드 상대)](techniques/step-over-from-x-guard.md) (Step Over from X-Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: X가드 스텝오버
+- [스매시 패스 (X 가드 상대)](techniques/smash-pass-from-x-guard.md) (Smash Pass from X-Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: X가드 스매시
+- [싱글 레그 X 가드](techniques/single-leg-x-guard.md) (Single Leg X Guard) — 자세 · 컨트롤 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: SLX, 싱글렉 X, 싱글렉스, 싱글 레그 엑스
+- [싱글 레그 X 스윕](techniques/single-leg-x-sweep.md) (Single Leg X Sweep) — 스윕 · 아래 → 패스 · 다른 이름: SLX 스윕, 싱글렉스 스윕
+- [힐 그랩 스윕](techniques/heel-grab-sweep.md) (Heel Grab Sweep) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 뒤꿈치 잡아 넘기기
+- [싱글 레그 X → X 가드](techniques/slx-to-x-guard.md) (SLX to X-Guard) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: X가드 전환, 싱글렉스 X 가드
+- [스트레이트 앵클락](techniques/straight-ankle-lock.md) (Straight Ankle Lock) — 서브미션 · 아래 · 다른 이름: 앵클락, 발목 꺾기, 풋락, 스트레이트 풋락, 앵클락 (X 가드)
+- [앵클락 빠져나오기](techniques/ankle-lock-escape.md) (Ankle Lock Escape) — 방어 · 위 → 패스 · 다른 이름: 앵클락 디펜스
+- [무릎 빼기 (앵클락 상대)](techniques/knee-extraction.md) (Knee Extraction from Ankle Lock) — 방어 · 위 → 패스 / 오픈 가드 · 다른 이름: 무릎 빼서 서기
+- [싱글 레그 X 빠져나오기 (서서)](techniques/standing-escape-from-slx.md) (Standing Escape from SLX) — 탈출 · 위 → 패스 · 다른 이름: SLX 이스케이프
+- [백스텝 (싱글 레그 X 상대)](techniques/backstep-from-single-leg-x.md) (Backstep from Single Leg X) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: SLX 백스텝
+- [리버스 X 가드](techniques/reverse-x-guard.md) (Reverse X-Guard) — 자세 · 컨트롤 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 리버스 엑스
+- [리버스 X 가드 스윕](techniques/reverse-x-guard-sweep.md) (Reverse X-Guard Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 리버스 X 스윕
+- [엘리베이션 스윕 (리버스 X)](techniques/elevation-sweep-to-mount.md) (Elevation Sweep to Mount) — 스윕 · 아래 → 마운트 · 다른 이름: 들어 올려 넘기기
+- [리버스 X → 백 테이크](techniques/reverse-x-to-back-take.md) (Reverse X to Back Take) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 리버스 X 백
+- [백스텝 패스 (리버스 X 상대)](techniques/backstep-pass-from-reverse-x.md) (Backstep Pass from Reverse X-Guard) — 패스 · 위 → 사이드 컨트롤 / 하프가드 · 다른 이름: 리버스 X 백스텝
+- [X 가드 → 백 테이크](techniques/x-guard-back-take.md) (X-Guard to Back Take) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: X가드 백, 엑스 가드 백 잡기
+- [애시 가라미 (스트레이트 애시)](techniques/ashi-garami.md) (Ashi Garami (Straight Ashi)) — 자세 · 컨트롤 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 아시 가라미, 스트레이트 애시, 싱글 레그 X (하체 관절기 자세), ashi garami, straight ashi, 애시 가라미
+- [하체 관절기 방어 (무릎 선 지키기 · 뒤꿈치 숨기기)](techniques/heel-hook-defense-knee-line.md) (Leg Lock Defense (Knee Line & Hide the Heel)) — 방어 · 위 → 패스 · 다른 이름: 힐훅 디펜스, 무릎 선, 니 라인, 하체 관절기 탈출, leg lock defense, knee line, 힐훅 방어
+- [토홀드 (앵클락 자세에서)](techniques/toe-hold.md) (Toe Hold from Ashi Garami) — 서브미션 · 아래 · 다른 이름: 토 홀드, 발끝 꺾기, toe hold, 풋락 (토홀드)
+- [인사이드 힐훅 (새들 · 인사이드 산카쿠)](techniques/inside-heel-hook-saddle.md) (Inside Heel Hook from the Saddle (Inside Sankaku)) — 서브미션 · 아래 · 다른 이름: 인사이드 힐 훅, 새들, 허니홀, 4-11, inside heel hook, inside sankaku
+- [아웃사이드 힐훅 (스트레이트 애시)](techniques/outside-heel-hook.md) (Outside Heel Hook from Straight Ashi) — 서브미션 · 아래 · 다른 이름: 힐훅, 힐 훅, 아웃사이드 힐 훅, heel hook, outside heel hook
+- [50/50 가드](techniques/fifty-fifty-guard.md) (50/50 Guard) — 자세 · 컨트롤 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 피프티 피프티, 50대50 가드, 50-50, fifty fifty, 50/50
+- [백사이드 50/50](techniques/backside-fifty-fifty.md) (Backside 50/50) — 자세 · 컨트롤 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 백사이드 피프티, 백사이드 50 50, backside 50/50, backside fifty fifty
+- [토홀드 (50/50)](techniques/toe-hold-fifty-fifty.md) (Toe Hold from 50/50) — 서브미션 · 아래 · 다른 이름: 50/50 토홀드, 피프티 토홀드, toe hold from 50/50
+- [니바 (50/50)](techniques/kneebar-fifty-fifty.md) (Kneebar from 50/50) — 서브미션 · 아래 · 다른 이름: 50/50 니바, 피프티 니바, kneebar from 50/50
+- [힐훅 (50/50)](techniques/heel-hook-fifty-fifty.md) (Heel Hook from 50/50) — 서브미션 · 아래 · 다른 이름: 50/50 힐훅, 피프티 힐훅, heel hook from 50/50
+
+## 하프가드
+
+- [하프가드 (자세 · 프레임)](techniques/half-guard-basics.md) (Half Guard (Basics & Frames)) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 하프, 반 가드, 하프가드 프레임 · 더블 힙 이스케이프, 하프 프레임, 브릿지 앤 프레임
+- [니 쉴드 하프가드](techniques/knee-shield-half-guard.md) (Knee Shield Half Guard) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 제트 가드, Z 가드, Z가드, 니실드, 니쉴드
+- [하프가드 언더훅 잡기](techniques/half-guard-underhook.md) (Winning the Underhook from Half Guard) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 언더훅 싸움, 언더훅
+- [하프가드 백 테이크](techniques/half-guard-back-take.md) (Back Take from Half Guard) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 하프에서 백 잡기
+- [하프가드에서 가드 회복](techniques/half-guard-recovery.md) (Half Guard to Full Guard Recovery) — 전환 · 아래 → 클로즈드 가드 / 버터플라이 가드 · 다른 이름: 가드 리커버리, 풀 가드 복귀
+- [기무라 (하프가드)](techniques/kimura-half-guard.md) (Kimura from Half Guard) — 서브미션 · 아래 · 다른 이름: 하프 기무라, 기무라 트랩
+- [Z 가드](techniques/z-guard.md) (Z-Guard) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 제트 가드, Z가드, 지 가드, 높은 니 쉴드, 하이 니 쉴드
+- [하프가드 패스 (크로스페이스 · 언더훅)](techniques/half-guard-pass.md) (Half Guard Pass (Crossface & Underhook)) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 하프 패스, 크로스페이스 패스, 언더훅 패스
+- [스매시 패스](techniques/smash-pass.md) (Smash Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 스매쉬 패스, 하프 스매시, 니 쉴드 패스, 니실드 패스, 무릎 방패 패스, Z가드 패스, Pass Pocket Half, Pocket Half Pass, Smash Pocket Half
+- [Z 가드 → 하프가드 (언더훅)](techniques/z-guard-to-half-guard.md) (Z-Guard to Half Guard) — 전환 · 아래 → 하프가드 · 다른 이름: 니 쉴드 풀어 언더훅
+- [니 쉴드 → 클로즈드 가드](techniques/knee-shield-to-closed-guard.md) (Knee Shield to Closed Guard) — 전환 · 아래 → 클로즈드 가드 · 다른 이름: 니 쉴드 리가드
+- [기무라 (니 쉴드)](techniques/kimura-from-knee-shield.md) (Kimura from Knee Shield Half Guard) — 서브미션 · 아래 · 다른 이름: 니 쉴드 기무라
+- [니 쉴드 스윕](techniques/sweep-from-knee-shield.md) (Sweep from Knee Shield) — 스윕 · 아래 → 마운트 · 다른 이름: 니 쉴드 넘기기, Z 가드 스윕, 제트 가드 스윕
+- [올드 스쿨 스윕](techniques/old-school-sweep.md) (Old School Sweep) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 올드스쿨, 하프가드 언더훅 스윕 (올드 스쿨), 언더훅 스윕
+- [올드 스쿨 스윕 방어](techniques/defend-old-school-sweep.md) (Defend Old School Sweep) — 방어 · 위 → 하프가드 · 다른 이름: 올드스쿨 디펜스
+- [도그파이트](techniques/dogfight-position.md) (Dogfight Position) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 도그 파이트
+- [도그파이트 스윕](techniques/dogfight-sweep.md) (Dogfight Sweep) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 도그파이트에서 넘기기
+- [도그파이트 전진 스윕](techniques/forward-drive-sweep-from-dogfight.md) (Forward Drive Sweep from Dogfight) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 밀어 넘기기
+- [도그파이트 → 하프가드 복귀](techniques/re-pull-half-guard-from-dogfight.md) (Re-pull Half Guard from Dogfight) — 전환 · 아래 → 하프가드 · 다른 이름: 하프 다시 잡기
+- [도그파이트 상대 다시 눕히기](techniques/re-flatten-from-dogfight.md) (Re-flatten from Dogfight) — 자세 · 컨트롤 · 위 → 하프가드 · 다른 이름: 도그파이트 탑 디펜스
+- [크로스페이스 (도그파이트 탑)](techniques/crossface-from-dogfight.md) (Crossface from Dogfight) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 도그파이트 크로스페이스
+- [스냅 다운 (도그파이트 탑)](techniques/snap-down-from-dogfight.md) (Snap Down from Dogfight) — 전환 · 위 → 프론트 헤드락 · 길로틴 · 다른 이름: 도그파이트 스냅다운
+- [눌린 하프가드에서 회복](techniques/flattened-half-guard.md) (Flattened Half Guard Recovery) — 탈출 · 아래 → 하프가드 · 다른 이름: 플랫 하프, 눌렸을 때
+- [눌린 하프 → 딥 하프](techniques/deep-half-entry-from-flattened.md) (Deep Half Entry from Flattened) — 전환 · 아래 → 딥 하프가드 · 다른 이름: 눌렸을 때 딥 하프
+- [기무라 (하프 탑)](techniques/kimura-from-flattened-half-top.md) (Kimura from Half Guard Top) — 서브미션 · 위 · 다른 이름: 하프 탑 기무라
+- [쿼터 가드 → 풀 가드](techniques/recover-full-guard-from-quarter.md) (Recover Full Guard from Quarter Guard) — 전환 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 쿼터 가드 회복
+- [쿼터 가드 → 니 쉴드](techniques/knee-shield-from-quarter.md) (Knee Shield from Quarter Guard) — 전환 · 아래 → 하프가드 · 다른 이름: 쿼터 니 쉴드
+- [쿼터 가드 패스](techniques/complete-pass-from-quarter.md) (Complete Pass from Quarter) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 쿼터 패스
+- [쿼터 가드 → 마운트](techniques/knee-through-from-quarter.md) (Knee Through from Quarter) — 패스 · 위 → 마운트 · 다른 이름: 쿼터 니 스루
+- [쿼터 가드 스윕](techniques/sweep-from-quarter-guard.md) (Sweep from Quarter Guard) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 쿼터 스윕
+- [기무라 (쿼터 가드 탑)](techniques/kimura-from-quarter-guard.md) (Kimura from Quarter Guard Top) — 서브미션 · 위 · 다른 이름: 쿼터 기무라
+- [하프가드 → X 가드](techniques/half-guard-to-x-guard.md) (Half Guard to X-Guard) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 하프 X가드
+- [백 도어 이스케이프 (하프)](techniques/back-door-escape-from-half.md) (Back Door Escape from Half Guard) — 백 테이크 · 아래 → 백 컨트롤 / 터틀 · 크루시픽스 · 다른 이름: 백도어
+- [니 토크 스윕](techniques/knee-torque-sweep.md) (Knee Torque Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 무릎 비틀기 스윕
+- [루프 초크 (하프 탑)](techniques/loop-choke-from-half-top.md) (Loop Choke from Half Guard Top) — 서브미션 · 위 · 다른 이름: 하프 루프 초크
+- [레그 위브 패스](techniques/leg-weave-pass.md) (Leg Weave Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 레그 레이스, 다리 엮기
+- [바디락 패스](techniques/body-lock-pass.md) (Body Lock Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 보디락 패스
+- [크로스페이스 → 컴뱃 베이스](techniques/crossface-to-combat-base.md) (Crossface to Combat Base) — 전환 · 위 → 패스 · 다른 이름: 하프 탑 리셋
+- [하프 탑 위저 카운터](techniques/half-guard-whizzer-counter.md) (Half Guard Whizzer Counter) — 방어 · 위 → 하프가드 · 다른 이름: 언더훅 잡혔을 때
+- [하프가드 → 레그 위브](techniques/half-guard-to-leg-weave.md) (Half Guard to Leg Weave) — 전환 · 위 → 패스 · 다른 이름: 레그 위브 진입
+- [하프 탑 기본 자세](techniques/half-guard-top-control.md) (Half Guard Top Control Basics) — 자세 · 컨트롤 · 위 → 하프가드 · 다른 이름: 하프 탑, 하프가드 위에서 누르기, 하프 탑 컨트롤
+- [하프가드 → 싱글 레그](techniques/half-guard-to-single-leg.md) (Half Guard to Single Leg) — 스윕 · 아래 → 사이드 컨트롤 / 하프가드 · 다른 이름: 하프 싱글, 언더훅 싱글 레그
+- [트라이앵글 (하프가드)](techniques/triangle-from-half-guard.md) (Triangle from Half Guard) — 서브미션 · 아래 · 다른 이름: 하프 트라이앵글, 하프가드 삼각 조르기
+- [코요테 하프가드](techniques/coyote-half-guard.md) (Coyote Half Guard) — 스윕 · 아래 → 사이드 컨트롤 / 하프가드 · 다른 이름: 코요테 하프, 다리 언더훅 하프
+- [암 트라이앵글 (하프 탑)](techniques/arm-triangle-from-half-top.md) (Arm Triangle from Half Guard Top) — 서브미션 · 위 · 다른 이름: 하프 탑 암트라이앵글, 가타가타메 하프
+- [니 쉴드 유지 (눌릴 때)](techniques/knee-shield-retention.md) (Knee Shield Retention) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 니 쉴드 리텐션, Knee Shield Retention, 무릎 방패 지키기
+- [리버스 하프 → 하프가드 회복](techniques/guard-recovery-from-reverse-half-guard.md) (Guard Recovery from Reverse Half Guard) — 전환 · 아래 → 하프가드 · 다른 이름: 리버스 하프 탈출, Escape Reverse Half Guard, 힙 스위치 하프 회복
+- [리버스 하프 패스](techniques/pass-reverse-half.md) (Pass Reverse Half Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 힙 스위치 패스, Reverse Half Pass, 리버스 하프 → 사이드
+- [하프가드 → 쿼터 가드 (탑)](techniques/half-guard-to-quarter-guard.md) (Half Guard to Quarter Guard) — 전환 · 위 → 하프가드 · 다른 이름: 쿼터 가드 만들기, Half to Quarter, 다리 반쯤 빼기
+- [피쉬넷 스윕 (리버스 하프가드)](techniques/fishnet-sweep-from-reverse-half-guard.md) (Fishnet Sweep from Reverse Half Guard) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 피쉬넷, 피쉬넷 스윕, 리버스 하프가드 스윕, 리버스 하프 스윕, Fishnet
+- [리버스 하프가드](techniques/reverse-half-guard-45bdd4.md) (Reverse Half Guard) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 리버스 하프, 역 하프가드, 리버스 하프 가드
+- [하프가드 크로스페이스 방어](techniques/half-guard-crossface-defense-b51c28.md) (Crossface Defense from Half Guard) — 방어 · 아래 → 하프가드 · 다른 이름: 하프가드 크로스페이스 방어, 크로스페이스 디펜스 (하프가드), 하프가드 크로스페이스 탈출, 크로스페이스 막기 (하프), Crossface Defense
+- [니바 (하프가드 탑 · 스텝 오버)](techniques/kneebar-half-guard-top.md) (Kneebar from Top Half Guard (Step Over)) — 서브미션 · 위 · 다른 이름: 니 바, 무릎 꺾기, kneebar, knee bar, 하프가드 니바
+- [락다운 (하프가드)](techniques/lockdown-half-guard.md) (Lockdown (Half Guard)) — 자세 · 컨트롤 · 아래 → 하프가드 · 다른 이름: 록다운, 하프가드 락다운, lockdown, the lockdown, 락다운
+- [옥토퍼스 가드 (하프가드에서)](techniques/octopus-guard.md) (Octopus Guard (from Half Guard)) — 백 테이크 · 아래 → 백 컨트롤 / 사이드 컨트롤 · 다른 이름: 옥토퍼스, 문어 가드, 터틀 가드, octopus guard, 옥토퍼스 가드
+- [토홀드 (하프가드 탑 · 니 쉴드 상대)](techniques/toe-hold-half-guard-top.md) (Toe Hold from Top Half Guard (vs Knee Shield)) — 서브미션 · 위 · 다른 이름: 하프가드 토홀드, 니 쉴드 토홀드, 롤링 토홀드 (하프), half guard toe hold, 토홀드 (하프가드 탑)
+- [토네이도 스윕 (니 쉴드 하프가드에서)](techniques/tornado-sweep-half-guard.md) (Tornado Guard Sweep) — 스윕 · 아래 → 사이드 컨트롤 / 남북 (노스사우스) · 다른 이름: 토네이도 가드, 토네이도, 사이보그 스윕, 사이보그 토네이도, tornado guard, tornado sweep, 토네이도 스윕
+
+## 딥 하프가드
+
+- [딥 하프가드](techniques/deep-half-guard.md) (Deep Half Guard) — 자세 · 컨트롤 · 아래 → 딥 하프가드 · 다른 이름: 딥 하프
+- [딥 하프 스윕](techniques/deep-half-sweep.md) (Deep Half Sweep) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 딥하프 넘기기
+- [웨이터 스윕](techniques/waiter-sweep.md) (Waiter Sweep) — 스윕 · 아래 → 하프가드 / 사이드 컨트롤 · 다른 이름: 웨이터
+- [호머 심슨 스윕](techniques/homer-simpson-sweep.md) (Homer Simpson Sweep) — 스윕 · 아래 → 마운트 · 다른 이름: 호머심슨
+- [딥 하프 → X 가드](techniques/deep-half-to-x-guard.md) (Deep Half to X-Guard) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 딥하프 X가드
+- [백스텝 (딥 하프 상대)](techniques/backstep-from-deep-half.md) (Backstep from Deep Half) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 딥하프 백스텝
+- [위저 (딥 하프 상대)](techniques/whizzer-from-deep-half.md) (Whizzer from Deep Half) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 딥하프 위저
+- [니슬라이스 (딥 하프 상대)](techniques/knee-slice-from-deep-half.md) (Knee Slice from Deep Half) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 딥하프 니슬라이스
+- [딥 하프 → 백 테이크](techniques/deep-half-to-back.md) (Deep Half to Back Take) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 딥하프 백, 딥 하프 백 잡기
+- [파리아 스윕 (딥 하프)](techniques/faria-sweep-deep-half.md) (Faria Sweep) — 스윕 · 아래 → 패스 · 다른 이름: 파리아 스윕, Faria Sweep, 딥 하프 라펠 스윕, 덴탈 플로스 스윕, Dental Floss Sweep
+- [딥 하프 → 싱글 레그 X](techniques/deep-half-to-single-leg-x.md) (Deep Half to Single Leg X) — 전환 · 아래 → X 가드 · 싱글 레그 X · 앵클락 · 다른 이름: 딥 하프에서 SLX, 딥 하프 → SLX, 딥하프 싱글엑스, deep half to slx
+
+## 패스
+
+- [니슬라이스 패스](techniques/knee-slice-pass.md) (Knee Slice Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 니컷, 니스루, 니 스플릿, knee cut, 니 슬라이스, 니 슬라이드, knee slice
+- [토레안도 패스](techniques/toreando-pass.md) (Toreando Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 불 패스, 토레아도, 투우사 패스, 불파이터 패스, 토리안도, toreando, bullfighter pass, 불파이터 패스 (시팅 가드 상대), 앉은 가드 토레안도, 불파이터
+- [레그 드래그](techniques/leg-drag.md) (Leg Drag Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 렉 드래그, 다리 끌기, leg drag, 레그드래그
+- [더블 언더 패스 (스택)](techniques/double-under-pass.md) (Double Under / Stack Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 스택 패스, 더블언더, 더블 언더훅 패스, 스태킹 패스, double under
+- [오버 언더 패스](techniques/over-under-pass.md) (Over Under Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 오버언더, 오버 언더훅 패스, over under
+- [롱 스텝 패스](techniques/long-step-pass.md) (Long Step Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 롱스텝, 롱 스텝, long step
+- [컴뱃 베이스](techniques/combat-base.md) (Combat Base) — 자세 · 컨트롤 · 위 → 패스 · 다른 이름: 콤뱃 베이스, 한 무릎 세우기, 콤뱃베이스, combat base
+- [니 슬라이드 (컴뱃 베이스)](techniques/knee-slide-from-combat-base.md) (Knee Slide from Combat Base) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 컴뱃 베이스 니슬라이스
+- [프레셔 패스](techniques/pressure-pass.md) (Pressure Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 압박 패스
+- [컴뱃 베이스 → 헤드쿼터](techniques/combat-base-to-headquarters.md) (Combat Base to Headquarters) — 전환 · 위 → 패스 · 다른 이름: 헤드쿼터 진입
+- [컴뱃 베이스 상대 가드 회복](techniques/guard-recovery-from-combat-base.md) (Guard Recovery vs Combat Base) — 방어 · 아래 → 오픈 가드 / 클로즈드 가드 · 다른 이름: 컴뱃 베이스 리가드
+- [컴뱃 베이스 상대 스윕](techniques/sweep-from-combat-base.md) (Sweep vs Combat Base) — 스윕 · 아래 → 사이드 컨트롤 / 패스 · 다른 이름: 컴뱃 베이스 스윕
+- [헤드쿼터 포지션](techniques/headquarters-position.md) (Headquarters Position) — 자세 · 컨트롤 · 위 → 패스 · 다른 이름: HQ, 헤드쿼터, 헤드쿼터스, headquarters
+- [니컷 (헤드쿼터)](techniques/knee-cut-from-headquarters.md) (Knee Cut from Headquarters) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: HQ 니컷
+- [레그 드래그 (헤드쿼터)](techniques/leg-drag-from-headquarters.md) (Leg Drag from Headquarters) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: HQ 레그 드래그
+- [토레안도 (헤드쿼터)](techniques/toreando-from-headquarters.md) (Toreando from Headquarters) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: HQ 토레안도
+- [헤드쿼터 상대 가드 회복](techniques/re-guard-from-headquarters.md) (Re-Guard from Headquarters) — 방어 · 아래 → 오픈 가드 · 다른 이름: HQ 리가드
+- [헤드쿼터 상대 신 투 신](techniques/shin-to-shin-from-headquarters.md) (Shin-to-Shin from Headquarters) — 전환 · 아래 → 오픈 가드 · 다른 이름: HQ 신투신
+- [헤드쿼터 상대 인버트 → 데라히바](techniques/inversion-from-headquarters.md) (Inversion from Headquarters) — 전환 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: HQ 인버트
+- [헤드쿼터 상대 스윕](techniques/sweep-from-headquarters.md) (Sweep from Headquarters) — 스윕 · 아래 → 패스 / 사이드 컨트롤 · 다른 이름: HQ 스윕
+- [더블 언더 컨트롤](techniques/double-unders-control.md) (Double Unders Control) — 자세 · 컨트롤 · 위 → 패스 · 다른 이름: 더블언더 자세, 더블 언더 그립
+- [토스 패스 (더블 언더)](techniques/toss-pass-from-double-unders.md) (Toss Pass from Double Unders) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 다리 던지기 패스
+- [더블 언더 상대 가드 회복](techniques/guard-recovery-from-double-unders.md) (Guard Recovery from Double Unders) — 방어 · 아래 → 오픈 가드 / 클로즈드 가드 · 다른 이름: 더블언더 리가드
+- [더블 언더 상대 버터플라이 훅 회복](techniques/butterfly-hook-recovery.md) (Butterfly Hook Recovery) — 방어 · 아래 → 버터플라이 가드 · 다른 이름: 훅 되찾기
+- [더블 언더 상대 스윕](techniques/sweep-from-double-unders.md) (Sweep from Double Unders) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 더블언더 스윕
+- [레그 드래그 컨트롤](techniques/leg-drag-control.md) (Leg Drag Control) — 자세 · 컨트롤 · 위 → 패스 · 다른 이름: 레그 드래그 자세, 레그 드래그 포지션
+- [레그 드래그 → 사이드](techniques/leg-drag-pass-to-side-control.md) (Leg Drag Pass to Side Control) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 레그 드래그 마무리
+- [레그 드래그 → 백 테이크](techniques/leg-drag-to-back-take.md) (Leg Drag to Back Take) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 레그 드래그 백
+- [레그 드래그 → 니 온 밸리](techniques/leg-drag-to-knee-on-belly.md) (Leg Drag to Knee on Belly) — 전환 · 위 → 니 온 밸리 · 다른 이름: 레그 드래그 KOB
+- [레그 드래그 → 마운트](techniques/leg-drag-to-mount.md) (Leg Drag to Mount) — 전환 · 위 → 마운트 · 다른 이름: 레그 드래그 마운트
+- [레그 드래그 상대 프레임 · 쉬림프](techniques/frame-and-shrimp-from-leg-drag.md) (Frame and Shrimp from Leg Drag) — 탈출 · 아래 → 오픈 가드 · 다른 이름: 레그 드래그 디펜스
+- [레그 드래그 상대 하프 회복](techniques/half-guard-recovery-from-leg-drag.md) (Half Guard Recovery from Leg Drag) — 탈출 · 아래 → 하프가드 · 다른 이름: 레그 드래그 하프
+- [레그 드래그 상대 데라히바 회복](techniques/leg-recovery-to-de-la-riva.md) (Leg Recovery to De La Riva) — 탈출 · 아래 → 데라히바 · 리버스 데라히바 · 다른 이름: 레그 드래그 DLR
+- [레그 드래그 상대 클로즈드 가드 회복](techniques/leg-drag-escape-to-closed-guard.md) (Leg Drag Escape to Closed Guard) — 탈출 · 아래 → 클로즈드 가드 · 다른 이름: 레그 드래그 리가드
+- [레그 드래그 → 다스](techniques/leg-drag-to-darce.md) (Leg Drag to Darce Setup) — 서브미션 · 위 · 다른 이름: 레그 드래그 다스
+- [레그 위브 상대 하프 회복](techniques/leg-weave-escape-to-half-guard.md) (Leg Weave Escape to Half Guard) — 탈출 · 아래 → 하프가드 · 다른 이름: 레그 위브 디펜스
+- [레그 위브 상대 도그파이트](techniques/leg-weave-to-dogfight.md) (Leg Weave to Dogfight) — 탈출 · 아래 → 하프가드 · 다른 이름: 레그 위브에서 일어나기
+- [레그 위브 상대 스윕](techniques/sweep-from-leg-weave.md) (Sweep from Leg Weave) — 스윕 · 아래 → 사이드 컨트롤 · 다른 이름: 레그 위브 스윕
+- [레그 위브 패스 마무리](techniques/complete-leg-weave-pass.md) (Complete Leg Weave Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 레그 위브 완성, Backstep from Leg Weave
+- [레그 훅 패스](techniques/leg-hook-pass.md) (Leg Hook Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 다리 걸어 패스
+- [레그 훅 상대 니 쉴드 회복](techniques/shin-shield-recovery.md) (Shin Shield Recovery) — 탈출 · 아래 → 하프가드 · 다른 이름: 레그 훅 디펜스
+- [레그 훅 빠져나오기](techniques/escape-leg-hook.md) (Escape Leg Hook) — 탈출 · 아래 → 하프가드 · 다른 이름: 레그 훅 이스케이프
+- [X 패스](techniques/x-pass.md) (X Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 엑스 패스, 엑스패스, x pass
+- [플로트 패스](techniques/float-passing.md) (Float Passing) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 플로팅 패스
+- [니슬라이스 (시팅 가드 상대)](techniques/knee-slice-from-seated-guard.md) (Knee Slice from Seated Guard) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 앉은 가드 니슬라이스
+- [바디락 패스 (시팅 가드 상대)](techniques/bodylock-pass-from-seated.md) (Bodylock Pass from Seated) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 앉은 가드 바디락, 바디록 패스, 바디락
+- [카운터 스윕 (패스 중)](techniques/counter-sweep.md) (Counter Sweep) — 방어 · 위 → 패스 · 다른 이름: 스윕 되치기
+- [백스텝 패스](techniques/backstep-pass.md) (Backstep Pass) — 패스 · 위 → 사이드 컨트롤 / 니 온 밸리 · 다른 이름: 백 스텝, 힙 스위치 패스, backstep
+- [오픈 가드 패스 자세 · 거리](techniques/open-guard-passing-posture.md) (Passing Posture vs Open Guard) — 자세 · 컨트롤 · 위 → 패스 · 다른 이름: 패스 자세, 서서 패스 준비, 패싱 포스처
+- [패스 마무리 (사이드 안착)](techniques/pass-finish-to-side-control.md) (Pass Finish to Side Control) — 자세 · 컨트롤 · 위 → 사이드 컨트롤 · 다른 이름: 패스 완성, 가슴 붙이기, 사이드 안착
+- [카트휠 패스 (옆돌기 패스)](techniques/cartwheel-pass.md) (Cartwheel Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 옆돌기 패스, 카트윌 패스, Cartwheel Guard Pass
+- [크랩 라이드](techniques/crab-ride.md) (Crab Ride) — 자세 · 컨트롤 · 위 → 백 컨트롤 / 사이드 컨트롤 · 다른 이름: 크랩라이드, 크랩 컨트롤, 크랩 포지션, 크랩 라이드 패스
+- [인버티드 가드 패스](techniques/inverted-guard-pass.md) (Inverted Guard Pass) — 패스 · 위 → 사이드 컨트롤 · 다른 이름: 인버티드 패스, 인버트 패스, 거꾸로 가드 패스, 인버티드 상대 패스, Pass Inverted Guard
+
+## 사이드 컨트롤
+
+- [사이드 컨트롤 유지](techniques/side-control-maintain.md) (Side Control (Crossface & Underhook)) — 자세 · 컨트롤 · 위 → 사이드 컨트롤 · 다른 이름: 크로스페이스, 사이드 잡기, 사이드 컨트롤, 사이드 유지
+- [사이드 이스케이프 (프레임 · 쉬림프)](techniques/side-control-escape.md) (Side Control Escape (Frame & Shrimp)) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 힙 이스케이프, 쉬림프, 사이드 탈출, 사이드 이스케이프, 엘보 이스케이프 (사이드), 팔꿈치 넣어 가드 회복
+- [사이드에서 마운트 가기](techniques/side-to-mount.md) (Side Control to Mount) — 전환 · 위 → 마운트 · 다른 이름: 니 슬라이드 마운트, 마운트 전환
+- [아메리카나 (사이드)](techniques/americana-side.md) (Americana from Side Control) — 서브미션 · 위 · 다른 이름: 키락, 아메리카나, 키 락, americana
+- [기무라 (사이드)](techniques/kimura-side.md) (Kimura from Side Control) — 서브미션 · 위 · 다른 이름: 사이드 키무라, 키무라, 기무라
+- [암 트라이앵글 (헤드 앤 암)](techniques/arm-triangle.md) (Arm Triangle (Head and Arm Choke)) — 서브미션 · 위 · 다른 이름: 헤드 앤 암 초크, 가타가타메, 암트라이앵글, 카타가타메, 암 트라이앵글 마무리, 헤드 앤 암 피니시
+- [다스 초크](techniques/darce-choke.md) (D'Arce Choke) — 서브미션 · 위 · 다른 이름: 다스, 다르스, 다르스 초크, darce
+- [팔 빼내기 (사이드 아래)](techniques/arm-extraction.md) (Arm Extraction from Side Control) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 끼인 팔 빼기
+- [터틀로 돌기 (사이드)](techniques/roll-to-turtle.md) (Roll to Turtle) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 사이드에서 터틀
+- [고스트 이스케이프](techniques/ghost-escape.md) (Ghost Escape from Side Control) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 고스트
+- [싯아웃 (사이드)](techniques/sit-out-from-side-control.md) (Sit Out from Side Control) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 사이드 싯아웃
+- [브릿지 앤 롤 (사이드)](techniques/bridge-and-roll-from-side.md) (Bridge and Roll from Side Control) — 탈출 · 아래 → 클로즈드 가드 · 다른 이름: 사이드 업파
+- [암바 (사이드)](techniques/armbar-from-side-control.md) (Armbar from Side Control) — 서브미션 · 위 · 다른 이름: 사이드 암바
+- [파 사이드 암바](techniques/far-side-armbar.md) (Far Side Armbar) — 서브미션 · 위 · 다른 이름: 먼 쪽 팔 암바
+- [에제키엘 (사이드)](techniques/ezekiel-choke-from-side.md) (Ezekiel Choke from Side Control) — 서브미션 · 위 · 다른 이름: 사이드 에제키엘
+- [남북 초크 (사이드에서)](techniques/north-south-choke-from-side.md) (North-South Choke from Side Control) — 서브미션 · 위 · 다른 이름: 남북 초크, 노스사우스, 노스사우스 초크
+- [브레드커터 초크](techniques/breadcutter-choke.md) (Breadcutter Choke) — 서브미션 · 위 · 다른 이름: 빵칼 초크, 브레드 커터, breadcutter
+- [루프 초크 (사이드)](techniques/loop-choke-from-side.md) (Loop Choke from Side Control) — 서브미션 · 위 · 다른 이름: 사이드 루프
+- [본 플루 초크](techniques/von-flue-choke.md) (Von Flue Choke) — 서브미션 · 위 · 다른 이름: 길로틴 카운터 초크, 본플루, von flue
+- [트라이앵글 (사이드 위에서)](techniques/triangle-choke-from-side.md) (Triangle from Side Control) — 서브미션 · 위 · 다른 이름: 사이드 트라이앵글
+- [벨리 다운 암바 (사이드)](techniques/belly-down-armbar-from-side.md) (Belly Down Armbar from Side Control) — 서브미션 · 위 · 다른 이름: 사이드 엎드린 암바
+- [사이드 → 곁누르기](techniques/side-control-to-kesa.md) (Side Control to Kesa Gatame) — 전환 · 위 → 곁누르기 · 다른 이름: 사이드 → 케사가타메, 케사 전환, 케사가타메, 스카프 홀드
+- [기프트 랩 (사이드)](techniques/gift-wrap-from-side.md) (Gift Wrap from Side Control) — 자세 · 컨트롤 · 위 → 사이드 컨트롤 · 다른 이름: 사이드 기프트랩
+- [기프트 랩 → 테크니컬 마운트](techniques/gift-wrap-to-technical-mount.md) (Gift Wrap to Technical Mount) — 전환 · 위 → 마운트 · 다른 이름: 기프트랩 마운트
+- [기프트 랩 → 자유 팔 암바](techniques/armbar-on-free-arm.md) (Armbar on Free Arm from Gift Wrap) — 서브미션 · 위 · 다른 이름: 기프트랩 암바
+- [기무라 (기프트 랩)](techniques/kimura-from-gift-wrap.md) (Kimura from Gift Wrap) — 서브미션 · 위 · 다른 이름: 기프트랩 기무라
+- [기프트 랩 빠져나오기](techniques/hip-escape-from-gift-wrap.md) (Escape Gift Wrap) — 탈출 · 아래 → 오픈 가드 / 하프가드 · 다른 이름: 기프트랩 디펜스
+- [사이드 → 니 온 밸리](techniques/side-to-knee-on-belly.md) (Side Control to Knee on Belly) — 전환 · 위 → 니 온 밸리 · 다른 이름: 니온밸리 전환, KOB 전환, 니 온 벨리
+- [버기 초크 (사이드 아래)](techniques/buggy-choke.md) (Buggy Choke from Bottom Side Control) — 서브미션 · 아래 · 다른 이름: 버기 초크, Buggy Choke, 사이드 아래 초크
+- [숄더 오브 저스티스 (사이드)](techniques/side-control-to-shoulder-of-justice.md) (Shoulder of Justice from Side Control) — 자세 · 컨트롤 · 위 → 사이드 컨트롤 · 다른 이름: 숄더 프레셔, Shoulder of Justice, 어깨 압박
+- [숄더 오브 저스티스 이스케이프](techniques/escape-shoulder-of-justice.md) (Escape Shoulder of Justice) — 탈출 · 아래 → 하프가드 · 다른 이름: 어깨 압박 빠져나오기, 숄더 프레셔 탈출, Shoulder of Justice Escape
+- [기프트 랩 유지](techniques/gift-wrap-maintenance.md) (Gift Wrap Maintenance) — 자세 · 컨트롤 · 위 → 사이드 컨트롤 · 다른 이름: 기프트 랩 컨트롤, Gift Wrap Control, 선물 포장 그립 유지
+- [칸토 초크 (사이드)](techniques/canto-choke.md) (Canto Choke) — 서브미션 · 위 · 다른 이름: 칸토초크, 칸토 초크, 칸토 초크 (가드), 플라비오 칸토 초크, Canto Choke
+
+## 남북 (노스사우스)
+
+- [남북](techniques/north-south.md) (North-South) — 자세 · 컨트롤 · 위 → 남북 (노스사우스) · 다른 이름: 노스 사우스, 69 포지션, 노스사우스, 남북 포지션, 남북 컨트롤
+- [남북 이스케이프](techniques/north-south-escape.md) (North-South Escape) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 남북 탈출, 노스사우스
+- [남북 → 터틀](techniques/bridge-and-turn-to-turtle-ns.md) (Bridge and Turn to Turtle from North-South) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 남북 터틀, 노스사우스
+- [남북 기무라](techniques/north-south-to-kimura.md) (North-South to Kimura) — 서브미션 · 위 · 다른 이름: 노스사우스 기무라, 남북 키무라
+- [암 트라이앵글 세팅 (남북)](techniques/arm-triangle-setup-ns.md) (Arm Triangle Setup from North-South) — 서브미션 · 위 · 다른 이름: 남북 헤드앤암, 노스사우스
+- [암바 (남북)](techniques/armbar-from-north-south.md) (Armbar from North-South) — 서브미션 · 위 · 다른 이름: 남북 암바, 노스사우스
+- [아메리카나 (남북)](techniques/americana-from-north-south.md) (Americana from North-South) — 서브미션 · 위 · 다른 이름: 남북 키락, 노스사우스
+- [남북 → 리버스 마운트](techniques/reverse-mount-transition.md) (North-South to Reverse Mount) — 전환 · 위 → 마운트 · 다른 이름: 리버스 마운트, Reverse Mount Transition, 남북에서 리버스 마운트
+- [남북 초크](techniques/north-south-choke.md) (North-South Choke) — 서브미션 · 위 · 다른 이름: 노스사우스 초크, 남북 조르기, NS 초크
+- [남북 → 사이드](techniques/north-south-to-side-control.md) (North-South to Side Control) — 전환 · 위 → 사이드 컨트롤 · 다른 이름: 남북에서 사이드로, 노스사우스 → 사이드
+- [백 테이크 (남북, 상대가 엎드릴 때)](techniques/north-south-to-back-take.md) (Back Take from North-South) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 남북에서 백, 노스사우스 백 테이크
+- [남북 → 마운트 (리버스 곁누르기 경유)](techniques/north-south-to-mount.md) (North-South to Mount) — 전환 · 위 → 마운트 · 다른 이름: 남북에서 마운트, 노스사우스 → 마운트, 노스사우스 마운트 전환, north south to mount, 남북 → 마운트
+
+## 니 온 밸리
+
+- [니 온 밸리](techniques/knee-on-belly.md) (Knee on Belly) — 자세 · 컨트롤 · 위 → 니 온 밸리 · 다른 이름: 니온벨리, 무릎 누르기, 니온밸리, KOB, 니 온 벨리
+- [니 온 밸리 이스케이프](techniques/knee-on-belly-escape.md) (Knee on Belly Escape) — 탈출 · 아래 → 오픈 가드 / 하프가드 / 터틀 · 크루시픽스 · 다른 이름: 니온벨리 탈출, 니온밸리 이스케이프, KOB 이스케이프, 무릎 밀어 가드 회복 (니 온 밸리 아래), KOB 리가드, 니온밸리 가드 회복
+- [니 온 밸리 → 마운트](techniques/kob-to-mount.md) (KOB to Mount) — 전환 · 위 → 마운트 · 다른 이름: KOB 마운트, 니온밸리 마운트 전환
+- [니 온 밸리 → 사이드](techniques/kob-to-side-control.md) (KOB to Side Control) — 전환 · 위 → 사이드 컨트롤 · 다른 이름: KOB 사이드, 니온밸리 사이드 전환
+- [파 사이드 암바 (니 온 밸리)](techniques/far-side-armbar-from-kob.md) (Far Side Armbar from KOB) — 서브미션 · 위 · 다른 이름: KOB 암바, KOB 파사이드 암바, 스피닝 암바 (니온밸리)
+- [베이스볼 배트 초크](techniques/baseball-bat-choke.md) (Baseball Bat Choke) — 서브미션 · 위 · 다른 이름: 야구방망이 초크, 베이스볼 초크, 야구배트 초크
+- [크로스 칼라 초크 (니 온 밸리)](techniques/cross-collar-choke-from-kob.md) (Cross Collar Choke from KOB) — 서브미션 · 위 · 다른 이름: KOB 크로스 초크, 니온밸리 크로스 초크, KOB 초크
+- [암바 (니 온 밸리, 가까운 팔)](techniques/armbar-from-kob.md) (Armbar from Knee on Belly) — 서브미션 · 위 · 다른 이름: KOB 근접 암바, 니온밸리 암바, 니어 사이드 암바 (니온밸리)
+- [기무라 (니 온 밸리)](techniques/kimura-from-kob.md) (Kimura from Knee on Belly) — 서브미션 · 위 · 다른 이름: KOB 기무라, 니온밸리 기무라
+- [터틀로 돌기 (니 온 밸리 아래)](techniques/turn-to-turtle-from-kob.md) (Turn to Turtle from KOB) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: KOB 터틀, 니온밸리 터틀
+- [니 온 밸리 스위치 (반대쪽으로 옮기기)](techniques/kob-switch-sides.md) (Knee on Belly Switch) — 전환 · 위 → 니 온 밸리 · 다른 이름: 니온밸리 스위치, KOB 스위치, 무릎 바꾸기
+- [백 테이크 (니 온 밸리, 상대가 돌아설 때)](techniques/kob-to-back-take.md) (Back Take from Knee on Belly) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 니온밸리 백 테이크, KOB 백
+
+## 곁누르기
+
+- [곁누르기 (스카프 홀드)](techniques/kesa-gatame.md) (Kesa Gatame (Scarf Hold)) — 자세 · 컨트롤 · 위 → 곁누르기 · 다른 이름: 케사가타메 (스카프 홀드), 스카프 홀드, 곁누르기, 케사가타메, 케사
+- [기무라 (곁누르기)](techniques/kimura-from-kesa.md) (Kimura from Kesa Gatame) — 서브미션 · 위 · 다른 이름: 기무라 (케사가타메), 케사 기무라, 케사가타메 기무라, Kimura from Kuzure Kesa Gatame
+- [아메리카나 (곁누르기)](techniques/americana-from-kesa.md) (Americana from Kesa Gatame) — 서브미션 · 위 · 다른 이름: 아메리카나 (케사가타메), 케사 키락, 케사 아메리카나, 다리 아메리카나
+- [암 트라이앵글 (곁누르기)](techniques/arm-triangle-from-kesa.md) (Arm Triangle from Kesa Gatame) — 서브미션 · 위 · 다른 이름: 암 트라이앵글 (케사가타메), 케사 헤드앤암, 케사 암 트라이앵글, 헤드앤암 초크 (곁누르기)
+- [곁누르기 → 마운트](techniques/kesa-to-mount.md) (Kesa Gatame to Mount) — 전환 · 위 → 마운트 · 다른 이름: 케사가타메 → 마운트, 케사 마운트, 케사가타메 마운트 전환
+- [곁누르기 → 사이드](techniques/kesa-to-side-control.md) (Kesa Gatame to Side Control) — 전환 · 위 → 사이드 컨트롤 · 다른 이름: 케사가타메 → 사이드, 케사 사이드, 케사가타메 사이드 전환
+- [곁누르기 이스케이프](techniques/escape-kesa-gatame.md) (Escape Kesa Gatame) — 탈출 · 아래 → 하프가드 / 백 컨트롤 · 다른 이름: 케사가타메 이스케이프, 케사 탈출, 곁누르기 탈출, 케사가타메 탈출
+- [브릿지 이스케이프 (곁누르기)](techniques/bridge-escape-from-kesa.md) (Bridge Escape from Kesa Gatame) — 탈출 · 아래 → 사이드 컨트롤 / 하프가드 · 다른 이름: 브릿지 이스케이프 (케사), 케사 브릿지, 케사 브릿지 탈출
+- [백 테이크 (곁누르기 아래)](techniques/back-take-from-kesa.md) (Back Take from Kesa Gatame) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 백 테이크 (케사 아래), 케사 백, 케사 백 테이크
+- [변형 곁누르기](techniques/kuzure-kesa-gatame.md) (Kuzure Kesa Gatame) — 자세 · 컨트롤 · 위 → 곁누르기 · 다른 이름: 쿠즈레 케사가타메, 언더훅 케사, 변형곁누르기, 모디파이드 스카프 홀드
+- [아메리카나 (변형 곁누르기)](techniques/americana-from-kuzure-kesa.md) (Americana from Kuzure Kesa Gatame) — 서브미션 · 위 · 다른 이름: 아메리카나 (쿠즈레 케사), 쿠즈레 키락, 쿠즈레 케사 아메리카나
+- [브레드커터 (변형 곁누르기)](techniques/breadcutter-from-kuzure-kesa.md) (Breadcutter Choke from Kuzure Kesa) — 서브미션 · 위 · 다른 이름: 브레드커터 (쿠즈레 케사), 쿠즈레 브레드커터, 브레드 커터 초크
+- [페이퍼 커터 초크](techniques/paper-cutter-choke.md) (Paper Cutter Choke) — 서브미션 · 위 · 다른 이름: 종이칼 초크, 페이퍼커터, 페이퍼 커터
+- [팔 빼고 가드 회복 (변형 곁누르기 아래)](techniques/arm-recovery-to-guard-kesa.md) (Arm Recovery to Guard from Kuzure Kesa) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 쿠즈레 케사 상대 팔 빼고 가드, 쿠즈레 탈출, 쿠즈레 케사 가드 회복
+- [스트레이트 암락 (곁누르기)](techniques/kesa-straight-armlock.md) (Straight Armlock from Kesa Gatame) — 서브미션 · 위 · 다른 이름: 곁누르기 암락, 케사 암락, 곁누르기 팔 꺾기, Kesa Gatame Arm Crush from Kesa Gatame
+- [다리로 머리 걸어 빼기 (곁누르기 아래)](techniques/kesa-leg-hook-escape.md) (Leg Over Head Escape from Kesa Gatame) — 탈출 · 아래 → 사이드 컨트롤 · 다른 이름: 케사 다리 걸기 탈출, 곁누르기 레그 훅 이스케이프, 다리 걸어 뒤로 넘기기
+- [리버스 곁누르기 (리버스 스카프 홀드)](techniques/reverse-kesa-gatame.md) (Reverse Kesa Gatame (Reverse Scarf Hold)) — 자세 · 컨트롤 · 위 → 곁누르기 · 다른 이름: 리버스 케사, 우시로 케사가타메, 리버스 스카프 홀드, 뒤곁누르기
+- [리버스 곁누르기 → 사이드](techniques/ushiro-kesa-gatame-to-side-control.md) (Ushiro Kesa Gatame to Side Control) — 전환 · 위 → 사이드 컨트롤 · 다른 이름: 리버스 스카프 홀드 → 사이드, Reverse Kesa to Side Control, 우시로 케사 → 사이드
+- [리버스 곁누르기 → 남북](techniques/ushiro-kesa-gatame-to-north-south.md) (Ushiro Kesa Gatame to North-South) — 전환 · 위 → 남북 (노스사우스) · 다른 이름: 리버스 스카프 홀드 → 노스사우스, Reverse Kesa to North-South, 우시로 케사 → 남북
+- [리버스 곁누르기 이스케이프](techniques/escape-ushiro-kesa-gatame.md) (Escape Ushiro Kesa Gatame) — 탈출 · 아래 → 하프가드 · 다른 이름: 리버스 스카프 홀드 탈출, 우시로 케사 이스케이프, Reverse Kesa Escape, Bridge from Ushiro Kesa Gatame
+
+## 마운트
+
+- [마운트 유지](techniques/mount-maintain.md) (Mount Maintenance) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 그레이프바인, 마운트 잡기, 마운트 컨트롤, 로우 마운트
+- [마운트 이스케이프 (업파)](techniques/mount-escape-upa.md) (Mount Escape (Upa / Trap and Roll)) — 탈출 · 아래 → 클로즈드 가드 · 다른 이름: 업파, 브릿지 앤 롤, 트랩 앤 롤, 업파 이스케이프, 브릿지 앤 롤 (마운트), 업파 변형
+- [마운트 이스케이프 (엘보)](techniques/mount-escape-elbow.md) (Elbow Escape from Mount) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 니 투 엘보, 쉬림프 이스케이프, 엘보 이스케이프
+- [테크니컬 마운트](techniques/technical-mount.md) (Technical Mount) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 테크 마운트, 테크니컬 마운트 자세, 마운트 → 테크니컬 마운트, 테크니컬 마운트 전환
+- [마운트 암바](techniques/mount-armbar.md) (Armbar from Mount) — 서브미션 · 위 · 다른 이름: 마운트에서 암바
+- [크로스 칼라 초크 (마운트)](techniques/mount-cross-collar-choke.md) (Cross Collar Choke from Mount) — 서브미션 · 위 · 다른 이름: 마운트 크로스 초크, 십자 조르기, 마운트 칼라 초크, 크로스 칼라 초크 (하이 마운트), 하이 마운트 초크
+- [에제키엘 초크](techniques/ezekiel-choke.md) (Ezekiel Choke) — 서브미션 · 위 · 다른 이름: 이지키엘, 소매 초크, 에제키엘, 이제키엘
+- [아메리카나 (마운트)](techniques/mount-americana.md) (Americana from Mount) — 서브미션 · 위 · 다른 이름: 마운트 키락, 마운트 아메리카나, 키락 (마운트)
+- [기프트 랩 → 백 테이크](techniques/gift-wrap.md) (Gift Wrap to Back Control) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 기프트랩, 기프트 랩, 선물 포장
+- [마운트 굳히기 (하이 마운트)](techniques/consolidate-mount.md) (Consolidate Mount) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 하이 마운트, 마운트 올리기
+- [힐 드래그 이스케이프](techniques/heel-drag-escape.md) (Heel Drag Escape) — 탈출 · 아래 → 하프가드 · 다른 이름: 뒤꿈치 끌기 탈출, 힐 드래그, 뒤꿈치 끌기
+- [마운트 탈출 → 하프 → 백 테이크](techniques/mount-escape-to-half-guard-back-take.md) (Mount Escape to Half Guard Back Take) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 마운트 탈출 백
+- [테크니컬 마운트 → 백](techniques/technical-mount-to-back.md) (Technical Mount to Back Control) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 테크니컬 마운트 백
+- [암바 (테크니컬 마운트)](techniques/armbar-from-technical-mount.md) (Armbar from Technical Mount) — 서브미션 · 위 · 다른 이름: 테크니컬 마운트 암바
+- [아메리카나 (테크니컬 마운트)](techniques/americana-from-technical-mount.md) (Americana from Technical Mount) — 서브미션 · 위 · 다른 이름: 테크니컬 키락
+- [테크니컬 마운트 이스케이프](techniques/escape-technical-mount.md) (Escape Technical Mount) — 탈출 · 아래 → 하프가드 · 다른 이름: 테크니컬 마운트 탈출
+- [S 마운트](techniques/s-mount.md) (S-Mount) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 에스 마운트, 에스마운트
+- [암바 (S 마운트)](techniques/armbar-from-s-mount.md) (Armbar from S-Mount) — 서브미션 · 위 · 다른 이름: S마운트 암바, 에스 마운트 암바
+- [S 마운트 → 마운티드 트라이앵글](techniques/s-mount-to-mounted-triangle.md) (S-Mount to Mounted Triangle) — 전환 · 위 → 마운트 · 다른 이름: S마운트 트라이앵글, 에스 마운트 트라이앵글
+- [S 마운트 이스케이프](techniques/frame-and-shrimp-from-s-mount.md) (Escape S-Mount) — 탈출 · 아래 → 하프가드 · 다른 이름: S마운트 탈출
+- [마운티드 트라이앵글](techniques/mounted-triangle.md) (Mounted Triangle) — 서브미션 · 위 · 다른 이름: 마운트 트라이앵글, 마운트 트라이앵글 초크, 트라이앵글 (마운트에서), 마운트 트라이앵글 진입
+- [마운티드 트라이앵글 이스케이프](techniques/escape-mounted-triangle.md) (Escape Mounted Triangle) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 마운트 트라이앵글 탈출
+- [마운티드 크루시픽스](techniques/mounted-crucifix.md) (Mounted Crucifix) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 마운트 크루시픽스, 마운티드 크루시픽스
+- [암 트라이앵글 (마운트)](techniques/arm-triangle-from-mount.md) (Arm Triangle from Mount) — 서브미션 · 위 · 다른 이름: 마운트 헤드앤암, 마운트 암 트라이앵글, 헤드앤암 초크 (마운트)
+- [기무라 (마운트)](techniques/kimura-from-mount.md) (Kimura from Mount) — 서브미션 · 위 · 다른 이름: 마운트 기무라
+- [모디파이드 마운트](techniques/modified-mount.md) (Modified Mount) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 변형 마운트
+- [크로스 칼라 초크 (모디파이드 마운트)](techniques/cross-collar-choke-from-modified-mount.md) (Cross Collar Choke from Modified Mount) — 서브미션 · 위 · 다른 이름: 변형 마운트 초크
+- [기무라 (모디파이드 마운트)](techniques/kimura-from-modified-mount.md) (Kimura from Modified Mount) — 서브미션 · 위 · 다른 이름: 변형 마운트 기무라
+- [모디파이드 마운트 이스케이프](techniques/bridge-escape-from-modified-mount.md) (Escape Modified Mount) — 탈출 · 아래 → 하프가드 · 다른 이름: 변형 마운트 탈출
+- [3/4 마운트](techniques/3-4-mount.md) (3-4 Mount) — 자세 · 컨트롤 · 위 → 마운트 · 다른 이름: 쓰리쿼터 마운트, 쓰리 쿼터 마운트, 3/4 마운트
+- [3/4 마운트 이스케이프](techniques/elbow-escape-from-3-4-mount.md) (Elbow Escape from 3-4 Mount) — 탈출 · 아래 → 하프가드 / 클로즈드 가드 · 다른 이름: 쓰리쿼터 탈출
+- [리버스 암바 (마운트)](techniques/reverse-armbar-from-mount.md) (Reverse Armbar from Mount) — 서브미션 · 위 · 다른 이름: 역 암바, 리버스 암바
+- [트랩 앤 롤 (하이 마운트)](techniques/trap-and-roll-from-high-mount.md) (Trap and Roll from High Mount) — 탈출 · 아래 → 클로즈드 가드 · 다른 이름: 하이 마운트 업파
+- [하이 마운트 프레임 이스케이프](techniques/frame-escape-from-high-mount.md) (Frame Escape from High Mount) — 탈출 · 아래 → 하프가드 · 다른 이름: 하이 마운트 탈출
+- [크로스 칼라 초크 막기 (마운트 아래)](techniques/mount-collar-choke-defense.md) (Cross Collar Choke Defense under Mount) — 방어 · 아래 → 클로즈드 가드 / 하프가드 · 다른 이름: 마운트 초크 디펜스, 크로스 초크 방어 (마운트 아래), 깃 초크 막기
+- [리버스 마운트 → 마운트](techniques/reverse-mount-to-mount.md) (Reverse Mount to Mount) — 전환 · 위 → 마운트 · 다른 이름: 리버스 마운트에서 마운트, 역마운트 돌아앉기, Reverse Mount to Mount
+- [리버스 마운트 → 사이드](techniques/reverse-mount-to-side-control.md) (Reverse Mount to Side Control) — 전환 · 위 → 사이드 컨트롤 · 다른 이름: 리버스 마운트에서 사이드, Reverse Mount to Side Control
+- [리버스 마운트 → 암바](techniques/armbar-from-reverse-mount.md) (Armbar from Reverse Mount) — 서브미션 · 위 · 다른 이름: 리버스 마운트 암바, Armbar from Reverse Mount
+- [리버스 마운트 이스케이프 (하프가드로)](techniques/escape-reverse-mount.md) (Escape Reverse Mount) — 탈출 · 아래 → 하프가드 · 다른 이름: 리버스 마운트 탈출, Escape Reverse Mount
+- [리버스 마운트 브릿지 → 터틀](techniques/bridge-from-reverse-mount.md) (Bridge from Reverse Mount) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 리버스 마운트 브릿지, Bridge from Reverse Mount
+- [마운티드 크루시픽스 이스케이프 (브릿지 → 터틀)](techniques/explosive-bridge-to-turtle.md) (Explosive Bridge to Turtle from Mounted Crucifix) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 마운티드 크루시픽스 탈출, 크루시픽스 브릿지, Explosive Bridge to Turtle
+
+## 백 컨트롤
+
+- [백 컨트롤 유지 (시트벨트 · 훅)](techniques/back-control-maintain.md) (Back Control (Seatbelt & Hooks)) — 자세 · 컨트롤 · 위 → 백 컨트롤 · 다른 이름: 시트벨트, 훅 넣기, 백 잡기, 백 마운트, 백 컨트롤
+- [리어 네이키드 초크](techniques/rear-naked-choke.md) (Rear Naked Choke) — 서브미션 · 위 · 다른 이름: RNC, 백 초크, 리어 네이키드, 네이키드 초크, 마타레옹
+- [보우 앤 애로우 초크](techniques/bow-and-arrow-choke.md) (Bow and Arrow Choke) — 서브미션 · 위 · 다른 이름: 활 조르기, 보우앤애로우, 보우 앤 애로, 보우 앤 애로우
+- [바디 트라이앵글](techniques/body-triangle.md) (Body Triangle) — 자세 · 컨트롤 · 위 → 백 컨트롤 · 다른 이름: 보디 트라이앵글, 바디 트라이앵글 잠그기, 바디 트라이앵글 세팅
+- [백 이스케이프](techniques/back-escape.md) (Back Escape) — 탈출 · 아래 → 클로즈드 가드 / 사이드 컨트롤 · 다른 이름: 백 빠져나오기, 핸드 파이팅, 백 탈출, 힙 이스케이프 (백 아래), 백 힙 이스케이프
+- [핸드 파이팅 (백 아래)](techniques/hand-fighting-from-back.md) (Hand Fighting from Back) — 방어 · 아래 → 백 컨트롤 · 다른 이름: 손 싸움, 핸드파이팅, 백 디펜스
+- [돌아서 마주 보기 (백 아래)](techniques/turn-into-opponent.md) (Turn into Opponent from Back) — 탈출 · 아래 → 클로즈드 가드 · 다른 이름: 백에서 돌아서기
+- [숄더 워크 이스케이프](techniques/shoulder-walk-escape.md) (Shoulder Walk Escape from Back) — 탈출 · 아래 → 사이드 컨트롤 · 다른 이름: 어깨 걷기
+- [리어 네이키드 초크 세팅](techniques/rear-naked-choke-setup.md) (Rear Naked Choke Setup) — 서브미션 · 위 · 다른 이름: RNC 셋업, RNC 세팅
+- [시트벨트 컨트롤 (훅 없이)](techniques/seat-belt-control.md) (Seat Belt Control) — 자세 · 컨트롤 · 위 → 백 컨트롤 · 다른 이름: 시트벨트만, 시트벨트 백 컨트롤
+- [시트벨트 → 풀 백 컨트롤](techniques/seat-belt-to-full-back.md) (Seat Belt to Full Back Control) — 전환 · 위 → 백 컨트롤 · 다른 이름: 훅 넣기
+- [시트벨트 빠져나오기](techniques/escape-seat-belt-control.md) (Escape Seat Belt Control) — 탈출 · 아래 → 터틀 · 크루시픽스 / 하프가드 · 다른 이름: 시트벨트 탈출
+- [리어 네이키드 초크 (바디 트라이앵글)](techniques/rnc-from-body-triangle.md) (RNC from Body Triangle) — 서브미션 · 위 · 다른 이름: 바디 트라이앵글 RNC, 바디 트라이앵글 리어 네이키드 초크
+- [크로스 칼라 초크 (백)](techniques/cross-collar-choke-from-back.md) (Cross Collar Choke from Back) — 서브미션 · 위 · 다른 이름: 백 크로스 초크, 슬라이딩 칼라 초크, 오쿠리에리지메, 백 깃 초크
+- [숏 초크](techniques/short-choke.md) (Short Choke) — 서브미션 · 위 · 다른 이름: 짧은 초크, 쇼트 초크, Short Choke Attack
+- [바디 트라이앵글 빠져나오기](techniques/body-triangle-escape-to-side.md) (Body Triangle Escape) — 탈출 · 아래 → 사이드 컨트롤 · 다른 이름: 바디 트라이앵글 탈출
+- [백 → 터틀로 빠지기](techniques/hip-escape-to-turtle-from-back.md) (Hip Escape to Turtle from Back) — 탈출 · 아래 → 터틀 · 크루시픽스 · 다른 이름: 백에서 터틀
+- [암바 (백)](techniques/armbar-from-back.md) (Armbar from Back) — 서브미션 · 위 · 다른 이름: 백 암바, 리어 암바
+- [리어 트라이앵글](techniques/rear-triangle.md) (Rear Triangle Choke) — 서브미션 · 위 · 다른 이름: 백 트라이앵글, 리어 트라이앵글 초크
+- [기무라 (백)](techniques/kimura-from-back.md) (Kimura from Back) — 서브미션 · 위 · 다른 이름: 백 기무라
+- [백 아래에서 되치기](techniques/rolling-back-take-reversal.md) (Rolling Back Take Reversal) — 탈출 · 아래 → 백 컨트롤 · 다른 이름: 백 리버설
+- [백 → 마운트 (상대가 등을 바닥에 붙일 때)](techniques/back-to-mount-transition.md) (Back Control to Mount) — 전환 · 위 → 마운트 · 다른 이름: 백에서 마운트, 리마운트, 백 마운트 전환
+- [에제키엘 초크 (백)](techniques/ezekiel-from-back.md) (Ezekiel Choke from Back) — 서브미션 · 위 · 다른 이름: 백 에제키엘, 소매 초크 (백), 이지키엘 (백)
+- [바디 트라이앵글 빠져나오기 (하프가드로)](techniques/body-triangle-escape-to-half-guard.md) (Body Triangle Escape to Half Guard) — 탈출 · 아래 → 하프가드 · 다른 이름: 바디 트라이앵글 탈출 → 하프, Body Triangle Escape to Half Guard
+- [백 → 크루시픽스](techniques/back-control-to-crucifix.md) (Back Control to Crucifix) — 전환 · 위 → 터틀 · 크루시픽스 · 다른 이름: 백 크루시픽스, 백에서 크루시픽스, Back Crucifix, Crucifix Transition
+- [리어 트라이앵글 → 암바](techniques/rear-triangle-to-armbar.md) (Rear Triangle to Armbar) — 서브미션 · 위 · 다른 이름: 백 트라이앵글 암바, 리어 트라이앵글 암바, Back Triangle Armbar
+
+## 터틀 · 크루시픽스
+
+- [터틀 (자세 · 방어)](techniques/turtle-basics.md) (Turtle (Basics & Defense)) — 방어 · 아래 → 터틀 · 크루시픽스 / 오픈 가드 · 다른 이름: 거북이, 터틀 자세, 터틀, 터틀 포지션, 거북이 자세
+- [터틀에서 백 테이크](techniques/turtle-back-take.md) (Back Take from Turtle) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 터틀 백, 거북이에서 백, 터틀 백 테이크, 백 잡기, 터틀 → 백 컨트롤 (훅 넣기), 터틀 백 훅, 터틀에서 훅 넣기, 체어 싯 → 백, 체어싯, 체어 싯 백 테이크
+- [터틀 뒤집기 (사이드로)](techniques/turtle-flatten.md) (Turtle Breakdown to Side Control) — 전환 · 위 → 사이드 컨트롤 · 다른 이름: 터틀 브레이크다운, 터틀 뒤집기, 브레이크다운, 터틀 플래튼
+- [클락 초크](techniques/clock-choke.md) (Clock Choke) — 서브미션 · 위 · 다른 이름: 시계 초크, 클락초크, 클럭 초크
+- [싯아웃 (터틀 탈출)](techniques/sit-out.md) (Sit Out from Turtle) — 탈출 · 아래 → 터틀 · 크루시픽스 / 사이드 컨트롤 · 다른 이름: 싯 아웃, 싯스루, 싯아웃, 터틀 싯아웃
+- [그랜비 롤 (가드 회복)](techniques/granby-roll.md) (Granby Roll to Guard) — 탈출 · 아래 → 클로즈드 가드 / 오픈 가드 · 다른 이름: 그랜비, 어깨 구르기, 그랜비롤, 숄더 롤, 구르며 가드 회복, 터틀 롤, 구르기 가드 회복
+- [터틀에서 일어서기](techniques/standing-up-in-base.md) (Technical Stand-up from Turtle) — 탈출 · 아래 → 스탠딩 · 테이크다운 · 다른 이름: 베이스로 일어나기, 테크니컬 스탠드업, 터틀에서 일어나기
+- [터틀 → 가드 회복](techniques/turtle-to-guard.md) (Turtle to Guard) — 탈출 · 아래 → 오픈 가드 · 다른 이름: 터틀 리가드, 터틀 가드 회복, 가드 리커버리, 싯 스루 → 가드, 싯스루, 싯 스루 가드
+- [피터슨 롤](techniques/peterson-roll.md) (Peterson Roll) — 스윕 · 아래 → 사이드 컨트롤 / 하프가드 · 다른 이름: 피터슨, 피터슨롤
+- [앞구르기로 빠지기](techniques/forward-roll-from-turtle.md) (Forward Roll from Turtle) — 탈출 · 아래 → 오픈 가드 · 다른 이름: 터틀 앞구르기, 앞구르기 가드 회복
+- [롤링 백 테이크](techniques/rolling-back-take.md) (Rolling Back Take) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 구르며 백 잡기, 롤링 백, Matrix Back Take, Matrix to Back Control
+- [크루시픽스 (터틀)](techniques/crucifix-from-turtle.md) (Crucifix from Turtle) — 전환 · 위 → 터틀 · 크루시픽스 · 다른 이름: 십자가, 크루시픽스, 크루시픽스 포지션
+- [초크 (크루시픽스)](techniques/choke-from-crucifix.md) (Choke from Crucifix) — 서브미션 · 위 · 다른 이름: 크루시픽스 초크, 크루시픽스 깃 초크
+- [암바 (크루시픽스)](techniques/armbar-from-crucifix.md) (Armbar from Crucifix) — 서브미션 · 위 · 다른 이름: 크루시픽스 암바, 크루시픽스 레그 암바
+- [기무라 (크루시픽스)](techniques/kimura-from-crucifix.md) (Kimura from Crucifix) — 서브미션 · 위 · 다른 이름: 크루시픽스 기무라, 크루시픽스 암락
+- [크루시픽스 빠져나오기](techniques/escape-crucifix.md) (Escape Crucifix) — 탈출 · 아래 → 터틀 · 크루시픽스 / 오픈 가드 · 다른 이름: 크루시픽스 탈출, 크루시픽스 이스케이프
+- [다스 초크 (터틀)](techniques/darce-from-turtle.md) (Darce from Turtle) — 서브미션 · 위 · 다른 이름: 터틀 다스, 다스, 다스 초크
+- [아나콘다 초크 (터틀)](techniques/anaconda-from-turtle.md) (Anaconda from Turtle) — 서브미션 · 위 · 다른 이름: 터틀 아나콘다, 아나콘다, 아나콘다 초크
+- [길로틴 (터틀)](techniques/guillotine-from-turtle.md) (Guillotine from Turtle) — 서브미션 · 위 · 다른 이름: 터틀 길로틴, 길로틴 초크, 길로틴
+- [루프 초크 (터틀)](techniques/loop-choke-from-turtle.md) (Loop Choke from Turtle) — 서브미션 · 위 · 다른 이름: 터틀 루프, 루프 초크, 루프초크
+- [기무라 (터틀)](techniques/kimura-from-turtle.md) (Kimura from Turtle) — 서브미션 · 위 · 다른 이름: 터틀 기무라, 암락, 터틀 암락
+- [터틀에서 싱글 레그](techniques/single-leg-from-turtle.md) (Single Leg from Turtle) — 탈출 · 아래 → 패스 / 사이드 컨트롤 · 다른 이름: 터틀 싱글렉, 싱글 레그 (터틀), 레슬 업
+- [터틀에서 훅 걷어내기](techniques/clear-hook-from-turtle.md) (Clear the Hook from Turtle) — 탈출 · 아래 → 오픈 가드 · 다른 이름: 훅 빼기, 터틀 훅 방어, 훅 디펜스
+- [크랩 라이드 → 백 테이크](techniques/crab-ride-to-back.md) (Crab Ride to Back Take) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 크랩 라이드 백, 크랩 라이드 백 테이크, Crab Ride Back Take
+- [크랩 라이드 빠져나오기](techniques/escape-from-crab-ride.md) (Escape from Crab Ride) — 탈출 · 아래 → 하프가드 · 다른 이름: 크랩 라이드 탈출, 크랩 라이드 이스케이프, Crab Ride Escape
+- [로데오 라이드 (터틀)](techniques/turtle-to-rodeo-ride.md) (Rodeo Ride from Turtle) — 자세 · 컨트롤 · 위 → 터틀 · 크루시픽스 / 백 컨트롤 · 다른 이름: 로데오 라이드, 원 훅 라이드, Rodeo Ride, 크로스 바디 라이드
+- [트럭 (터틀에서)](techniques/truck.md) (The Truck (from Turtle)) — 자세 · 컨트롤 · 위 → 터틀 · 크루시픽스 / 백 컨트롤 · 다른 이름: 트러크, 트럭 포지션, the truck, truck, 트럭
+- [카프 슬라이서 (트럭에서)](techniques/calf-slicer-truck.md) (Calf Slicer from the Truck) — 서브미션 · 위 · 다른 이름: 카프 슬라이서, 종아리 누르기, 카프 크랭크, calf slicer, calf crank
+
+## 프론트 헤드락 · 길로틴
+
+- [프론트 헤드락](techniques/front-headlock.md) (Front Headlock) — 자세 · 컨트롤 · 위 → 프론트 헤드락 · 길로틴 · 다른 이름: 프론트 헤드록, 헤드락, 프론트 헤드락 컨트롤
+- [프론트 헤드락 → 백](techniques/front-headlock-to-back.md) (Front Headlock to Back) — 백 테이크 · 위 → 백 컨트롤 · 다른 이름: 헤드락 백 테이크, 고 비하인드, 프론트 헤드락 백
+- [길로틴 세팅](techniques/guillotine-setup.md) (Guillotine Setup) — 자세 · 컨트롤 · 위 → 프론트 헤드락 · 길로틴 · 다른 이름: 길로틴 셋업, 길로틴 그립, Chin Strap Guillotine from Front Headlock
+- [길로틴 마무리](techniques/guillotine-choke-finish.md) (Guillotine Choke Finish) — 서브미션 · 위 · 다른 이름: 길로틴 피니시, 길로틴 초크
+- [하이 엘보 길로틴](techniques/high-elbow-guillotine.md) (High Elbow Guillotine) — 서브미션 · 위 · 다른 이름: 마르셀로 길로틴, 하이엘보 길로틴, 마르셀로틴
+- [암 인 길로틴](techniques/arm-in-guillotine.md) (Arm-in Guillotine) — 서브미션 · 위 · 다른 이름: 팔 넣은 길로틴, 암인 길로틴, 암 인 길로틴 초크
+- [텐 핑거 길로틴](techniques/ten-finger-guillotine.md) (Ten Finger Guillotine) — 서브미션 · 위 · 다른 이름: 열 손가락 길로틴, 텐핑거 길로틴
+- [길로틴 방어](techniques/guillotine-defense.md) (Guillotine Defense) — 방어 · 아래 → 사이드 컨트롤 · 다른 이름: 길로틴 디펜스, 길로틴 탈출, 길로틴 이스케이프
+- [길로틴에서 가드 회복](techniques/guard-recovery-from-guillotine.md) (Guard Recovery from Guillotine) — 탈출 · 아래 → 오픈 가드 / 버터플라이 가드 · 다른 이름: 길로틴 탈출, 길로틴에서 리가드
+- [아나콘다 초크](techniques/anaconda-choke.md) (Anaconda Choke) — 서브미션 · 위 · 다른 이름: 아나콘다, 아나콘다초크, 게이터 롤
+- [아나콘다 안 되면 사이드](techniques/anaconda-to-side-control.md) (Anaconda to Side Control) — 전환 · 위 → 사이드 컨트롤 / 남북 (노스사우스) · 다른 이름: 아나콘다 실패 시, 아나콘다 포기하고 사이드
+- [아나콘다 방어](techniques/frame-and-posture-from-anaconda.md) (Defend Anaconda) — 방어 · 아래 → 프론트 헤드락 · 길로틴 · 다른 이름: 아나콘다 디펜스, 아나콘다 탈출
+- [다스 초크 (프론트 헤드락)](techniques/darce-choke-front-headlock.md) (D'Arce Choke from Front Headlock) — 서브미션 · 위 · 다른 이름: 다스, 브라보 초크, 다르스, 다스초크
+- [다스 ↔ 아나콘다 전환](techniques/darce-to-anaconda-switch.md) (Darce to Anaconda Switch) — 서브미션 · 위 · 다른 이름: 다스 아나콘다 스위치, 다스에서 아나콘다
+- [다스 방어](techniques/frame-escape-from-darce.md) (Defend Darce) — 방어 · 아래 → 하프가드 / 오픈 가드 · 다른 이름: 다스 디펜스, 다스 탈출
+- [백 도어 이스케이프 (다스)](techniques/back-door-escape-darce.md) (Back Door Escape from Darce) — 탈출 · 아래 → 터틀 · 크루시픽스 / 패스 · 다른 이름: 다스 백도어, 백도어 이스케이프
+- [암 트라이앵글 (프론트 헤드락)](techniques/arm-triangle-from-front-headlock.md) (Arm Triangle from Front Headlock) — 서브미션 · 위 · 다른 이름: 헤드락 헤드앤암, 암 트라이앵글, 헤드 앤 암 초크
+- [기무라 (프론트 헤드락)](techniques/kimura-from-front-headlock.md) (Kimura from Front Headlock) — 서브미션 · 위 · 다른 이름: 헤드락 기무라, 암락
+- [프론트 헤드락 빠져나오기 (서서 돌기)](techniques/stand-and-circle-away.md) (Stand and Circle Away) — 탈출 · 아래 → 스탠딩 · 테이크다운 · 다른 이름: 헤드락 탈출, 서서 돌아 빠지기
+- [암 드래그로 빠져나오기 (프론트 헤드락)](techniques/arm-drag-escape-front-headlock.md) (Arm Drag Escape) — 탈출 · 아래 → 오픈 가드 / 백 컨트롤 · 다른 이름: 헤드락 암드랙, 암 드래그 탈출, 암드래그
+- [힙 이스케이프 (프론트 헤드락)](techniques/hip-escape-from-front-headlock.md) (Hip Escape from Front Headlock) — 탈출 · 아래 → 오픈 가드 · 다른 이름: 헤드락 힙 이스케이프, 힙 이스케이프
+- [구르며 되치기 (프론트 헤드락)](techniques/roll-through-to-reversal.md) (Roll Through to Reversal) — 탈출 · 아래 → 사이드 컨트롤 / 프론트 헤드락 · 길로틴 · 다른 이름: 헤드락 롤 리버설, 구르며 되치기
+- [페루비안 넥타이](techniques/peruvian-necktie.md) (Peruvian Necktie) — 서브미션 · 위 · 다른 이름: 페루 넥타이, 페루비안
+- [재패니즈 넥타이](techniques/japanese-necktie.md) (Japanese Necktie) — 서브미션 · 위 · 다른 이름: 일본식 넥타이, 재패니즈 넥타이 초크
+- [스프롤 후 다스 초크](techniques/darce-from-sprawl.md) (Darce from Sprawl) — 서브미션 · 서서 · 다른 이름: 스프롤 다스, 다스 (스프롤), 태클 방어 다스
+- [피크 아웃 (프론트 헤드락 탈출)](techniques/peek-out-escape.md) (Peek-out Escape from Front Headlock) — 탈출 · 아래 → 터틀 · 크루시픽스 / 백 컨트롤 · 다른 이름: 피크아웃, 헤드락 피크 아웃, 머리 빼기
+
+## 서브미션 걸린 뒤 (암바 · 기무라 · 오모플라타 · 트라이앵글)
+
+- [암바 마무리](techniques/armbar-finish.md) (Armbar Finish) — 서브미션 · 아래 · 다른 이름: 암바 피니시, 암바, 주지 가타메
+- [벨리 다운 암바](techniques/belly-down-armbar.md) (Belly Down Armbar) — 서브미션 · 아래 · 다른 이름: 엎드린 암바, 벨리다운 암바
+- [암바 방어 (팔 빼기)](techniques/armbar-defense.md) (Armbar Defense) — 방어 · 위 → 클로즈드 가드 · 다른 이름: 암바 디펜스, 팔 빼기, 암바 이스케이프
+- [히치하이커 이스케이프](techniques/hitchhiker-escape.md) (Hitchhiker Escape) — 탈출 · 아래 → 오픈 가드 / 사이드 컨트롤 · 다른 이름: 엄지 돌려 빼기, 히치하이커
+- [암바 안 되면 백 테이크](techniques/back-take-from-armbar.md) (Back Take from Armbar) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 암바 백, 암바에서 백 테이크
+- [암바 → 트라이앵글](techniques/triangle-from-armbar.md) (Triangle from Armbar) — 서브미션 · 아래 · 다른 이름: 암바 트라이앵글, 암바에서 트라이앵글
+- [암바 → 기무라](techniques/kimura-from-armbar-control.md) (Kimura from Armbar Control) — 서브미션 · 아래 · 다른 이름: 암바 기무라, 암락
+- [암바 → 오모플라타](techniques/omoplata-from-armbar.md) (Omoplata from Armbar Control) — 서브미션 · 아래 · 다른 이름: 암바 오모플라타, 암바에서 오모플라타
+- [기무라 트랩](techniques/kimura-trap.md) (Kimura Trap) — 자세 · 컨트롤 · 아래 → 서브미션 걸린 뒤 (암바 · 기무라 · 오모플라타 · 트라이앵글) · 다른 이름: 기무라 컨트롤, 기무라 트랩 시스템
+- [기무라 마무리](techniques/kimura-finish.md) (Kimura Finish) — 서브미션 · 위 · 다른 이름: 기무라 피니시, 기무라, 암락
+- [기무라 → 백 테이크](techniques/kimura-to-back-take.md) (Kimura to Back Take) — 백 테이크 · 위 · 아래 → 백 컨트롤 · 다른 이름: 기무라 백, 기무라 트랩 백 테이크
+- [롤링 기무라](techniques/rolling-kimura.md) (Rolling Kimura) — 서브미션 · 아래 · 다른 이름: 구르는 기무라, 롤링 키무라
+- [기무라 방어](techniques/kimura-defense.md) (Kimura Defense) — 방어 · 위 · 아래 · 다른 이름: 기무라 디펜스, 기무라 이스케이프
+- [기무라 되치기 (구르기)](techniques/kimura-counter-via-roll.md) (Kimura Counter via Roll) — 탈출 · 위 · 아래 → 클로즈드 가드 / 사이드 컨트롤 · 다른 이름: 기무라 롤 카운터, 기무라 구르기 탈출
+- [오모플라타 마무리](techniques/omoplata-finish.md) (Omoplata Finish) — 서브미션 · 아래 · 다른 이름: 오모플라타 피니시, 오모플라타
+- [오모플라타 → 스윕](techniques/omoplata-to-sweep.md) (Omoplata to Sweep) — 스윕 · 아래 → 마운트 / 사이드 컨트롤 · 다른 이름: 오모플라타 넘기기, 오모플라타 스윕
+- [오모플라타 → 백](techniques/omoplata-to-back.md) (Omoplata to Back) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 오모플라타 백
+- [오모플라타 앞구르기 탈출](techniques/roll-forward-from-omoplata.md) (Roll Forward from Omoplata) — 탈출 · 위 → 사이드 컨트롤 · 다른 이름: 오모플라타 롤, 오모플라타 앞구르기
+- [오모플라타 스택 방어](techniques/stack-defense-from-omoplata.md) (Stack Defense from Omoplata) — 방어 · 위 → 하프가드 / 사이드 컨트롤 · 다른 이름: 오모플라타 디펜스, 오모플라타 스택
+- [오모플라타 옆돌기 탈출](techniques/cartwheel-escape-from-omoplata.md) (Cartwheel Escape from Omoplata) — 탈출 · 위 → 오픈 가드 · 다른 이름: 카트휠, 오모플라타 카트휠
+- [트라이앵글 마무리](techniques/triangle-finish.md) (Triangle Finish) — 서브미션 · 아래 · 다른 이름: 트라이앵글 피니시, 트라이앵글 초크, 삼각 조르기
+- [트라이앵글 → 암바](techniques/triangle-to-armbar.md) (Triangle to Armbar) — 서브미션 · 아래 · 다른 이름: 트라이앵글 암바
+- [트라이앵글 → 오모플라타](techniques/triangle-to-omoplata.md) (Triangle to Omoplata) — 서브미션 · 아래 · 다른 이름: 트라이앵글 오모플라타
+- [트라이앵글 → 백](techniques/triangle-to-back.md) (Triangle to Back) — 백 테이크 · 아래 → 백 컨트롤 · 다른 이름: 트라이앵글 백
+- [트라이앵글 탈출 (자세 세우기)](techniques/triangle-escape-posture.md) (Triangle Escape (Posture Up)) — 탈출 · 위 → 오픈 가드 · 다른 이름: 트라이앵글 디펜스, 트라이앵글 탈출, 포스처 업
+- [트라이앵글 스택 탈출](techniques/stack-escape-from-triangle.md) (Stack Escape from Triangle) — 탈출 · 위 → 하프가드 / 사이드 컨트롤 · 다른 이름: 트라이앵글 스택, 스택 이스케이프
+- [인버티드 트라이앵글](techniques/inverted-triangle.md) (Inverted Triangle) — 서브미션 · 아래 · 다른 이름: 거꾸로 트라이앵글, 인버티드 트라이앵글 초크
+- [암바 그립 풀기](techniques/armbar-grip-break.md) (Armbar Grip Break) — 서브미션 · 아래 · 다른 이름: 암바 그립 브레이크, 암바 손 풀기, 그립 브레이크
+- [고고플라타 마무리](techniques/gogoplata-from-gogoplata-control.md) (Gogoplata Finish) — 서브미션 · 아래 · 다른 이름: 고고플라타, Gogoplata, 정강이 초크
+- [고고플라타 방어 (자세 세우기)](techniques/posture-up-from-gogoplata.md) (Gogoplata Defense (Posture Up)) — 방어 · 위 → 오픈 가드 · 다른 이름: 고고플라타 탈출, Gogoplata Escape, Posture Up from Gogoplata
+- [기무라 (트라이앵글)](techniques/kimura-from-triangle-control.md) (Kimura from Triangle Control) — 서브미션 · 아래 · 다른 이름: 트라이앵글 → 기무라, Triangle to Kimura, 삼각 기무라
+- [기무라 그립 → 리버스 곁누르기](techniques/kimura-trap-to-ushiro-kesa-gatame.md) (Kimura Trap to Ushiro Kesa Gatame) — 전환 · 위 → 곁누르기 · 다른 이름: 기무라 트랩 → 우시로 케사, 리버스 케사, Kimura to Reverse Kesa
+- [기무라 → 아메리카나 전환](techniques/americana-from-kimura-trap.md) (Americana from Kimura Trap) — 서브미션 · 위 · 다른 이름: 기무라 아메리카나 전환, Kimura to Americana, 아메리카나 (기무라 그립)
